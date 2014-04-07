@@ -1,0 +1,80 @@
+#########################################
+#  Copa Libertadores de América 2014
+#
+# -- Second Stage // February 11 to April 10 --
+
+
+
+Group 1  |  Vélez Sarsfield    The Strongest    Universitario             Atlético Paranaense
+Group 2  |  Unión Española     San Lorenzo      Independiente del Valle   Botafogo
+Group 3  |
+Group 4  |
+Group 5  |
+Group 6  |
+Group 7  |
+Group 8  |
+
+
+Fecha 1 |  ??
+Fecha 2 |  ??
+Fecha 3 |  ??
+Fecha 4 |  ??
+Fecha 5 |  ??
+Fecha 6 |  ??
+
+
+
+Group 1:
+
+Fecha 1
+Feb/11 21:30   Universitario        0-1   Vélez Sarsfield  @ Estadio Monumental, Lima (UTC-5)
+Feb/13 20:00   Atlético Paranaense  1-0   The Strongest    @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+
+Fecha 2
+Feb/20 21:15   The Strongest        1-0   Universitario        @ Estadio Hernando Siles, La Paz (UTC-4)
+Feb/25 19:45   Vélez Sarsfield      2-0   Atlético Paranaense  @ Estadio José Amalfitani, Buenos Aires (UTC-3)
+
+Fecha 3
+Mar/11 20:15   The Strongest        2-0   Vélez Sarsfield      @ Estadio Hernando Siles, La Paz (UTC-4)
+Mar/13 20:30   Universitario        0-1   Atlético Paranaense  @ Estadio Monumental, Lima (UTC-5)
+
+Fecha 4
+Mar/18 22:00   Vélez Sarsfield      2-0   The Strongest     @ Estadio José Amalfitani, Buenos Aires (UTC-3)
+Mar/20 18:30   Atlético Paranaense  3-0   Universitario     @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+
+Fecha 5
+Mar/26 23:00   Atlético Paranaense  1-3   Vélez Sarsfield   @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+Mar/27 21:00   Universitario        3-3   The Strongest     @ Estadio Monumental, Lima (UTC-5)
+
+Fecha 6
+Apr/8 19:45   Vélez Sarsfield  vs.  Universitario               @ Estadio José Amalfitani, Buenos Aires (UTC-3) 
+Apr/8 18:45   The Strongest    vs.  Atlético Paranaense         @ Estadio Hernando Siles, La Paz (UTC-4)
+
+
+Group 2:
+
+Fecha 1
+Feb/11 20:00   Botafogo                 2-0   San Lorenzo     @ Estadio Maracanã, Río de Janeiro (UTC-2)
+Feb/18 20:30   Independiente del Valle  2-2   Unión Española  @ Estadio Rumiñahui, Sangolquí (UTC-5)
+
+Fecha 2
+Feb/26 19:45   Unión Española   1-1   Botafogo    @ Estadio Santa Laura, Santiago de Chile (UTC-3)
+Feb/27 19:30   San Lorenzo      1-0   Independiente del Valle   @ Estadio «Nuevo Gasómetro», Buenos Aires (UTC-3) 
+
+Fecha 3
+Mar/12 17:45  Independiente del Valle  2-1  Botafogo         @ Estadio Rumiñahui, Sangolquí (UTC-5) 
+Mar/12 19:45  San Lorenzo              1-1  Unión Española   @ Estadio Nuevo Gasómetro, Buenos Aires (UTC-3) 
+
+Fecha 4
+Mar/18 23:00  Botafogo        1-0  Independiente del Valle   @ Estadio Maracanã, Río de Janeiro (UTC-2) 
+Mar/20 22:00  Unión Española  1-0  San Lorenzo               @ Estadio Santa Laura, Santiago de Chile (UTC-3) 
+
+Fecha 5
+Mar/27 18:45  Independiente del Valle  1-1   San Lorenzo    @ Estadio Olímpico Atahualpa, Quito (UTC-5) 
+Apr/2 20:45   Botafogo                 0-1   Unión Española @ Estadio «Maracanã», Río de Janeiro (UTC-2) 
+
+Fecha 6
+Apr/9 19:45   Unión Española  vs.  Independiente del Valle   @ Estadio Santa Laura, Santiago de Chile (UTC-3)
+Apr/9 19:45   San Lorenzo  vs.  Botafogo   @ Estadio Nuevo Gasómetro, Buenos Aires (UTC-3)
+
+
