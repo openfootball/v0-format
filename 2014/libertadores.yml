@@ -1,0 +1,68 @@
+########################################
+#  Copa Libertadores de América 2014
+
+league: america.l
+season: 2014
+start_at: 2014-01-28    # untils  Aug/13
+team3: false
+
+
+fixtures:
+## - libertadores_i
+- libertadores_ii
+- libertadores_finals
+
+
+###
+## todo: fix: add keys for teams
+
+teams:
+# Argentina 5 cupos
+Vélez Sarsfield
+Newell's Old Boys
+San Lorenzo
+- arsenalsarandi # Arsenal
+Lanús
+# Bolivia 3 cupos
+Bolívar
+The Strongest
+Oriente Petrolero
+# Brasil 5 cupos + campeón vigente
+Atlético Mineiro
+Cruzeiro
+Flamengo
+Grêmio
+Atlético Paranaense
+Botafogo
+# Chile 3 cupos
+Unión Española
+O'Higgins
+Universidad de Chile
+# Colombia 3 cupos
+Atlético Nacional
+Deportivo Cali
+Santa Fe
+# Ecuador 3 cupos
+Emelec
+Independiente del Valle
+Deportivo Quito
+# México 3 cupos
+Santos Laguna
+León
+Morelia
+# Paraguay 3 cupos
+Cerro Porteño
+Nacional
+Guaraní
+# Perú 3 cupos
+Universitario
+Real Garcilaso
+Sporting Cristal
+# Uruguay 3 cupos
+Peñarol
+Defensor Sporting
+Nacional
+# Venezuela 3 cupos
+Deportivo Anzoátegui
+Zamora
+Caracas

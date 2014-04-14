@@ -1,9 +1,7 @@
 ##########################################
 #  Copa Libertadores de América 2013
-
-
-##################################################
-# Second Stage  //  February 12 to April 18
+#
+# -- Second Stage  //  February 12 to April 18
 
 
 ##########
@@ -22,305 +20,182 @@ Group 8  |  Fluminense         Huachipato            Caracas               Grêm
 ##############
 # Matchdays
 
-(3)  Matchday 1   //  February 12-14
-(4)  Matchday 2   //  February 19-21
-(5)  Matchday 3   //  February 26-28
-(6)  Matchday 4   //  March 5-7
-(7)  Matchday 5   //  March 12-14
-(8)  Matchday 6   //  April 2-4
-(9)  Matchday 7   //  April 9-11
-(10) Matchday 8   //  April 16-18
+(3)  Matchday 1  |  Feb/12 - Feb/14    # February 12-14
+(4)  Matchday 2  |  Feb/19 - Feb/21    # February 19-21
+(5)  Matchday 3  |  Feb/26 - Feb/28    # February 26-28
+(6)  Matchday 4  |  Mar/5  - Mar/7     # March 5-7
+(7)  Matchday 5  |  Mar/12 - Mar/14    # March 12-14
+(8)  Matchday 6  |  Apr/2  - Apr/4     # April 2-4
+(9)  Matchday 7  |  Apr/9  - Apr/11    # April 9-11
+(10) Matchday 8  |  Apr/16 - Apr/18    # April 16-18
 
 
 
-##################
-# Group 1
-
-(3) Matchday 1 / Group 1  //  February 12-14
+Group 1:
 
 2013-02-12 20:15  Nacional      2-2  Barcelona
 2013-02-13 21:00  Boca Juniors  1-2  Toluca
 
-(4) Matchday 2 / Group 1  //  February 19-21
+2013-02-19 20:45  Toluca        2-3  Nacional
+2013-02-27 17:45  Barcelona     1-2  Boca Juniors
 
-2013-02-19 20:45  Toluca  2-3 Nacional
-
-(5) Matchday 3 / Group 1  //  February 26-28
-
-2013-02-27 17:45  Barcelona  1-2  Boca Juniors
-
-(6) Matchday 4 / Group 1  //  March 5-7
-
-2013-03-06 21:15  Toluca  1-1  Barcelona
+2013-03-06 21:15  Toluca        1-1  Barcelona
 2013-03-07 21:30  Boca Juniors  0-1  Nacional
 
-(7) Matchday 5 / Group 1  //  March 12-14
-
-2013-03-13 17:45  Barcelona  0-0  Toluca
-2013-03-14 19:15  Nacional  0-1  Boca Juniors
-
-(8) Matchday 6 / Group 1  //  April 2-4
+2013-03-13 17:45  Barcelona     0-0  Toluca
+2013-03-14 19:15  Nacional      0-1  Boca Juniors
 
 2013-04-03 19:45  Boca Juniors  1-0  Barcelona
 2013-04-04 19:15  Nacional      4-0  Toluca
-
-(10) Matchday 8 / Group 1  //  April 16-18
 
 2013-04-17 17:45  Barcelona     1-0  Nacional
 2013-04-17 17:45  Toluca        3-2  Boca Juniors
 
 
-##################
-# Group 2
 
-(3) Matchday 1 / Group 2  //  February 12-14
+Group 2:
 
 2013-02-14 22:00  Palmeiras  2-1  Sporting Cristal
-
-(4) Matchday 2 / Group 2  //  February 19-21
-
-2013-02-21 19:15  Tigre  0-2  Libertad
-
-(5) Matchday 3 / Group 2  //  February 26-28
+2013-02-21 19:15  Tigre      0-2  Libertad
 
 2013-02-28 19:15  Libertad          2-0  Palmeiras
 2013-02-28 21:45  Sporting Cristal  2-0  Tigre
 
-(6) Matchday 4 / Group 2  //  March 5-7
-
 2013-03-06 19:45  Libertad  2-2  Sporting Cristal
 2013-03-06 19:45  Tigre     1-0  Palmeiras
 
-(7) Matchday 5 / Group 2  //  March 12-14
-
 2013-03-12 21:45  Sporting Cristal  1-1  Libertad
-
-(8) Matchday 6 / Group 2  //  April 2-4
-
-2013-04-02 21:30  Palmeiras  2-0  Tigre
-
-(9) Matchday 7 / Group 2  //  April 9-11
+2013-04-02 21:30  Palmeiras         2-0  Tigre
 
 2013-04-09 19:15  Tigre      3-1  Sporting Cristal
 2013-04-11 19:15  Palmeiras  1-0  Libertad
-
-(10) Matchday 8 / Group 2  //  April 16-18
 
 2013-04-18 20:15  Sporting Cristal  1-0  Palmeiras
 2013-04-18 21:15  Libertad          3-5  Tigre
 
 
-##################
-# Group 3
 
-(3) Matchday 1 / Group 3  //  February 12-14
+Group 3:
 
 2013-02-13 22:00  Atlético Mineiro  2-1  São Paulo
-2013-02-14 20:00  The Strongest  2-1  Arsenal
+2013-02-14 20:00  The Strongest     2-1  Arsenal
 
-(5) Matchday 3 / Group 3  //  February 26-28
-
-2013-02-26 21:45  Arsenal  2-5  Atlético Mineiro
+2013-02-26 21:45  Arsenal    2-5  Atlético Mineiro
 2013-02-28 21:30  São Paulo  2-1  The Strongest
-
-(6) Matchday 4 / Group 3  //  March 5-7
 
 2013-03-07 19:15  São Paulo         1-1  Arsenal
 2013-03-07 21:30  Atlético Mineiro  2-1  The Strongest
 
-(7) Matchday 5 / Group 3  //  March 12-14
-
 2013-03-13 21:00  The Strongest  1-2  Atlético Mineiro
 2013-03-14 21:30  Arsenal        2-1  São Paulo
 
-(8) Matchday 6 / Group 3  //  April 2-4
-
 2013-04-03 22:00  Atlético Mineiro  5-2  Arsenal
 2013-04-04 20:30  The Strongest     2-1  São Paulo
-
-(10) Matchday 8 / Group 3  //  April 16-18
 
 2013-04-17 22:00  Arsenal    2-1  The Strongest
 2013-04-17 22:00  São Paulo  2-0  Atlético Mineiro
 
 
-##################
-# Group 4
-
-(3) Matchday 1 / Group 4  //  February 12-14
+Group 4:
 
 2013-02-12 19:30  Emelec   1-0  Vélez Sársfield
 2013-02-12 23:45  Iquique  1-2  Peñarol
 
-(4) Matchday 2 / Group 4  //  February 19-21
-
 2013-02-19 20:15  Peñarol          1-0  Emelec
 2013-02-20 19:45  Vélez Sársfield  3-0  Iquique
-
-(5) Matchday 3 / Group 4  //  February 26-28
 
 2013-02-26 20:30  Peñarol  0-1  Vélez Sársfield
 2013-02-27 23:15  Iquique  2-0  Emelec           # NB: changed date from 24:15 to 23:15 (24:15 is invalid, check - use 00:15?)      
 
-(6) Matchday 4 / Group 4  //  March 5-7
-
 2013-03-05 21:45  Emelec  2-1  Iquique
-
-(7) Matchday 5 / Group 4  //  March 12-14
-
 2013-03-12 19:15  Vélez Sársfield  3-1  Peñarol
-
-(8) Matchday 6 / Group 4  //  April 2-4
 
 2013-04-02 21:45  Emelec   2-0  Peñarol
 2013-04-03 23:15  Iquique  1-3  Vélez Sársfield    # NB: changed date from 24:15 to 23:15 (24:15 is invalid, check - use 00:15?)
-
-(9) Matchday 7 / Group 4  //  April 9-11
 
 2013-04-09 21:30  Peñarol          3-0  Iquique
 2013-04-09 21:30  Vélez Sársfield  0-0  Emelec
 
 
-##################
-# Group 5
-
-(4) Matchday 2 / Group 5  //  February 19-21
+Group 5:
 
 2013-02-19 19:30  Millonarios  0-1  Tijuana
 2013-02-20 21:00  San José     1-1  Corinthians
 
-(5) Matchday 3 / Group 5  //  February 26-28
-
 2013-02-26 19:15  Tijuana      4-0  San José
 2013-02-27 22:00  Corinthians  2-0  Millonarios
-
-(6) Matchday 4 / Group 5  //  March 5-7
 
 2013-03-06 17:00  Tijuana      1-0  Corinthians
 2013-03-07 21:45  Millonarios  2-1  San José
 
-(7) Matchday 5 / Group 5  //  March 12-14
-
 2013-03-13  22:00  Corinthians  3-0  Tijuana
 2013-03-14  20:30  San José     2-0  Millonarios
 
-(8) Matchday 6 / Group 5  //  April 2-4
-
 2013-04-03 18:45  San José     1-1  Tijuana
 2013-04-03 20:00  Millonarios  0-1  Corinthians
-
-(9) Matchday 7 / Group 5  //  April 9-11
 
 2013-04-10 22:00  Corinthians  3-0  San José
 2013-04-10 18:00  Tijuana      1-0  Millonarios
 
 
-##################
-# Group 6
-
-(3) Matchday 1 / Group 6  //  February 12-14
+Group 6:
 
 2013-02-13 21:15  Real Garcilaso   1-1  Santa Fe
 2013-02-14 21:15  Deportes Tolima  2-1  Cerro Porteño
 
-(4) Matchday 2 / Group 6  //  February 19-21
-
 2013-02-21 21:30  Cerro Porteño  0-1  Real Garcilaso
 2013-02-21 21:45  Santa Fe       1-1  Deportes Tolima
 
-(5) Matchday 3 / Group 6  //  February 26-28
-
 2013-02-26 17:45  Deportes Tolima  0-1  Real Garcilaso
-
-(6) Matchday 4 / Group 6  //  March 5-7
-
 2013-03-07 19:15  Cerro Porteño  1-2  Santa Fe
-
-(8) Matchday 6 / Group 6  //  April 2-4
 
 2013-04-02 17:15  Real Garcilaso  0-3  Deportes Tolima
 2013-04-02 19:30  Santa Fe        1-0  Cerro Porteño
 
-(9) Matchday 7 / Group 6  //  April 9-11
-
 2013-04-09 19:30  Deportes Tolima  1-2  Santa Fe
 2013-04-10 17:45  Real Garcilaso   5-1  Cerro Porteño
-
-(10) Matchday 8 / Group 6  //  April 16-18
 
 2013-04-16 21:15  Cerro Porteño  0-0  Deportes Tolima
 2013-04-16 20:15  Santa Fe       2-0  Real Garcilaso
 
 
-##################
-# Group 7
-
-(3) Matchday 1 / Group 7  //  February 12-14
+Group 7:
 
 2013-02-12 21:30  Universidad de Chile  2-0  Deportivo Lara
 2013-02-14 18:45  Newell's Old Boys     3-1  Olimpia
 
-(4) Matchday 2 / Group 7  //  February 19-21
-
 2013-02-19 21:30  Olimpia         3-0  Universidad de Chile
 2013-02-21 17:45  Deportivo Lara  2-1  Newell's Old Boys
-
-(6) Matchday 4 / Group 7  //  March 5-7
 
 2013-03-05 19:15  Olimpia            2-2  Deportivo Lara
 2013-03-05 21:30  Newell's Old Boys  1-2  Universidad de Chile
 
-(7) Matchday 5 / Group 7  //  March 12-14
-
 2013-03-12 21:30  Universidad de Chile  0-2  Newell's Old Boys
 2013-03-13 18:15  Deportivo Lara        1-5  Olimpia
 
-(8) Matchday 6 / Group 7  //  April 2-4
-
 2013-04-02 19:15  Universidad de Chile  0-1  Olimpia
 2013-04-04 19:15  Newell's Old Boys     3-1  Deportivo Lara
-
-(9) Matchday 7 / Group 7  //  April 9-11
 
 2013-04-11 20:00  Deportivo Lara    2-3  Universidad de Chile
 2013-04-11 21:30  Olimpia           4-1  Newell's Old Boys
 
 
-##################
-# Group 8
+Group 8:
 
-(3) Matchday 1 / Group 8  //  February 12-14
-
-2013-02-13 19:30  Caracas  0-1  Fluminense
-2013-02-14 19:45  Grêmio   1-2  Huachipato
-
-(4) Matchday 2 / Group 8  //  February 19-21
+2013-02-13 19:30  Caracas     0-1  Fluminense
+2013-02-14 19:45  Grêmio      1-2  Huachipato
 
 2013-02-20 19:45  Huachipato  1-3  Caracas
 2013-02-20 22:00  Fluminense  0-3  Grêmio
 
-(5) Matchday 3 / Group 8  //  February 26-28
-
 2013-02-27 22:00  Huachipato  1-2  Fluminense
-
-(6) Matchday 4 / Group 8  //  March 5-7
-
 2013-03-05 21:30  Grêmio      4-1  Caracas
+
 2013-03-06 22:00  Fluminense  1-1  Huachipato
+2013-03-12 20:00  Caracas     2-1  Grêmio
 
-(7) Matchday 5 / Group 8  //  March 12-14
-
-2013-03-12 20:00  Caracas  2-1  Grêmio
-
-(8) Matchday 6 / Group 8  //  April 2-4
-
-2013-04-04 20:00  Caracas  0-4  Huachipato
-
-(9) Matchday 7 / Group 8  //  April 9-11
-
-2013-04-10 22:00  Grêmio  0-0  Fluminense
-
-(10) Matchday 8 / Group 8  //  April 16-18
+2013-04-04 20:00  Caracas     0-4  Huachipato
+2013-04-10 22:00  Grêmio      0-0  Fluminense
 
 2013-04-18 19:00  Huachipato  1-1  Grêmio
 2013-04-18 20:00  Fluminense  1-0  Caracas
