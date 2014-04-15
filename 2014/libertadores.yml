@@ -3,7 +3,7 @@
 
 league: america.l
 season: 2014
-start_at: 2014-01-28    # untils  Aug/13
+start_at: 2014-01-28    # until  Aug/13
 team3: false
 
 
@@ -18,22 +18,22 @@ fixtures:
 
 teams:
 # Argentina 5 cupos
-Vélez Sarsfield
-Newell's Old Boys
-San Lorenzo
+- velez          # Vélez Sarsfield
+- newells        # Newell's Old Boys
+- sanlorenzo     # San Lorenzo
 - arsenalsarandi # Arsenal
-Lanús
+- lanus          # Lanús
 # Bolivia 3 cupos
-Bolívar
-The Strongest
-Oriente Petrolero
+- bolivar           # Bolívar
+- thestrongest      # The Strongest
+- orientepetrolero  # Oriente Petrolero
 # Brasil 5 cupos + campeón vigente
-Atlético Mineiro
-Cruzeiro
-Flamengo
-Grêmio
-Atlético Paranaense
-Botafogo
+- atleticomg        # Atlético Mineiro
+- cruzeiro          # Cruzeiro
+- flamengo          # Flamengo
+- gremio            # Grêmio
+- atleticopr        # Atlético Paranaense
+- botafogo          # Botafogo
 # Chile 3 cupos
 Unión Española
 O'Higgins
