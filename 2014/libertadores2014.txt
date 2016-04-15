@@ -1,0 +1,154 @@
+########################################
+# Copa Libertadores da América - 2014
+
+Pré Libertadores
+[Ter 28/01]
+	Oriente Petrolero         1 - 0              Nacional-URU
+	Monarcas Morelia          2 - 1                  Santa Fe
+[Qua 29/01]
+	Sporting Cristal          2 - 1               Atlético-PR
+	Deportivo Quito           1 - 0                  Botafogo
+[Qui 30/01]
+	Universidad de Chile      1 - 0               Guaraní-PAR
+	Caracas                   0 - 2                     Lanús
+[Ter 04/02]
+	Nacional-URU              2 - 0         Oriente Petrolero
+	Santa Fe                  1 - 0          Monarcas Morelia
+[Qua 05/02]
+	Botafogo                  4 - 0           Deportivo Quito
+	Atlético-PR               2 - 1          Sporting Cristal
+
+1a rodada
+[Ter 11/02]
+	Botafogo                  2 - 0               San Lorenzo
+	Zamora                    0 - 1               Atlético-MG
+	Santos Laguna             1 - 0        Arsenal de Sarandí
+[Qua 12/02]
+	Universitário             0 - 1           Vélez Sarsfield
+	Santa Fe                  3 - 1              Nacional-PAR
+	Anzoátegui                1 - 1                   Peñarol
+	León                      2 - 1                  Flamengo
+	Real Garcilaso            2 - 1                  Cruzeiro
+[Qui 13/02]
+	Deportivo Cali            1 - 0             Cerro Porteño
+	Atlético-PR               1 - 0             The Strongest
+
+2a rodada
+[Ter 18/02]
+	Peñarol                   0 - 2             Santos Laguna
+[Qua 19/02]
+	Defensor Sporting         4 - 1            Real Garcilaso
+	Bolívar                   1 - 1                      León
+	O'Higgins                 1 - 0            Deportivo Cali
+[Qui 20/02]
+	Nacional-PAR              1 - 0                    Zamora
+	The Strongest             1 - 0             Universitário
+[Ter 25/02]
+	Cruzeiro                  5 - 1      Universidad de Chile
+	Vélez Sarsfield           2 - 0               Atlético-PR
+	Grêmio                    3 - 0         Atlético Nacional
+	Arsenal de Sarandí        3 - 0                Anzoátegui
+
+3a rodada
+[Ter 11/03]
+	Defensor Sporting         2 - 0                  Cruzeiro
+	Atlético Nacional         2 - 2              Nacional-URU
+	Anzoátegui                1 - 1             Santos Laguna
+	The Strongest             2 - 0           Vélez Sarsfield
+	Emelec                    2 - 1                      León
+	Real Garcilaso            1 - 2      Universidad de Chile
+[Qua 12/03]
+	San Lorenzo               1 - 1            Unión Española
+	Independiente del Valle   2 - 1                  Botafogo
+	Nacional-PAR              2 - 2               Atlético-MG
+	Zamora                    2 - 1                  Santa Fe
+
+4a rodada
+[Ter 18/03]
+	Nacional-URU              0 - 1         Atlético Nacional
+	Universidad de Chile      1 - 0            Real Garcilaso
+	Vélez Sarsfield           2 - 0             The Strongest
+	Botafogo                  1 - 0   Independiente del Valle
+	Santa Fe                  2 - 2                    Zamora
+[Qua 19/03]
+	Santos Laguna             3 - 0                Anzoátegui
+	Peñarol                   2 - 1        Arsenal de Sarandí
+	Atlético-MG               1 - 1              Nacional-PAR
+	Newell's Old Boys         1 - 1                    Grêmio
+	Bolívar                   1 - 0                  Flamengo
+
+5a rodada
+[Ter 25/03]
+	Zamora                    2 - 0              Nacional-PAR
+	Santos Laguna             4 - 1                   Peñarol
+[Qua 26/03]
+	Anzoátegui                1 - 3        Arsenal de Sarandí
+	Nacional-URU              2 - 4         Newell's Old Boys
+	Deportivo Cali            1 - 1                 O'Higgins
+	Atlético-PR               1 - 3           Vélez Sarsfield
+[Qui 27/03]
+	León                      0 - 1                   Bolívar
+	Lanús                     2 - 0             Cerro Porteño
+	Independiente del Valle   1 - 1               San Lorenzo
+	Universitário             3 - 3             The Strongest
+
+6a rodada
+[Ter 08/04]
+	Vélez Sarsfield           1 - 0             Universitário
+	The Strongest             2 - 1               Atlético-PR
+	Cerro Porteño             3 - 2            Deportivo Cali
+	O'Higgins                 0 - 0                     Lanús
+[Qua 09/04]
+	Flamengo                  2 - 3                      León
+	Bolívar                   2 - 1                    Emelec
+	Cruzeiro                  3 - 0            Real Garcilaso
+	Defensor Sporting         1 - 1      Universidad de Chile
+	Unión Española            4 - 5   Independiente del Valle
+	San Lorenzo               3 - 0                  Botafogo
+
+Oitavas-de-final
+[Qua 16/04]
+	Lanús                     2 - 1             Santos Laguna
+	León                      2 - 2                   Bolívar
+	Cruzeiro                  1 - 1             Cerro Porteño
+[Qui 17/04]
+	The Strongest             2 - 0         Defensor Sporting
+[Ter 22/04]
+	Bolívar                   1 - 1                      León
+[Qua 23/04]
+	Nacional-PAR              1 - 0           Vélez Sarsfield
+	Atlético Nacional         1 - 0               Atlético-MG
+	San Lorenzo               1 - 0                    Grêmio
+[Qui 24/04]
+	Santos Laguna             0 - 2                     Lanús
+	Arsenal de Sarandí        0 - 0            Unión Española
+
+Quartas-de-final
+[Qua 07/05]
+	Nacional-PAR              1 - 0        Arsenal de Sarandí
+	San Lorenzo               1 - 0                  Cruzeiro
+[Qui 08/05]
+	Lanús                     1 - 1                   Bolívar
+	Atlético Nacional         0 - 2         Defensor Sporting
+[Qua 14/05]
+	Arsenal de Sarandí        0 - 0              Nacional-PAR
+	Cruzeiro                  1 - 1               San Lorenzo
+[Qui 15/05]
+	Bolívar                   1 - 0                     Lanús
+	Defensor Sporting         1 - 0         Atlético Nacional
+
+Semi-final
+[Ter 22/07]
+	Nacional-PAR              2 - 0         Defensor Sporting
+[Qua 23/07]
+	San Lorenzo               5 - 0                   Bolívar
+[Ter 29/07]
+	Defensor Sporting         1 - 0              Nacional-PAR
+[Qua 30/07]
+	Bolívar                   1 - 0               San Lorenzo
+
+Final
+[Qua 06/08]
+	Nacional-PAR              1 - 1               San Lorenzo
+[Qua 13/08]
+	San Lorenzo               1 - 0              Nacional-PAR
