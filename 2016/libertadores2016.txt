@@ -104,13 +104,16 @@ Pré-Libertadores
 [Qui 14/04]
 	Atlético-MG               4 - 0                    Melgar
 	Colo Colo                 0 - 0   Independiente del Valle
-	Nacional-URU               -            Rosario Central
-	Palmeiras                  -            River Plate-URU
+	Nacional-URU              0 - 2           Rosario Central
+	Palmeiras                 4 - 0           River Plate-URU
 [Ter 19/04]
-	Peñarol                    -           Sporting Cristal
-	Atlético Nacional          -                    Huracán
-	San Lorenzo                -                  LDU Quito
-	Grêmio                     -                     Toluca
+	Peñarol                   4 - 3          Sporting Cristal
+	Atlético Nacional         0 - 0                   Huracán
+	San Lorenzo               1 - 1                 LDU Quito
+	Grêmio                    1 - 0                    Toluca
+[Qua 20/04]
+
+[Qui 21/04]
 
 Oitavas de Final
 [Qua 27/04]
