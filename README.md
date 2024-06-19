@@ -1,4 +1,5 @@
-# Copa Libertadores (South Amercia)
+# Copa Libertadores & Sudamericana  (South Amercia)
+
 
 ## What's `football.db`?
 
@@ -13,6 +14,7 @@ Free open public domain football data for clubs in in South America
 and North America, Central America & Caribbean. Events include:
 
 - CONMEBOL¹ Copa Libertadores 
+- CONMEBOL¹ Copa Sudamericana 
 
 <!-- footnotes "handmade" -->
 
