@@ -1,0 +1,25 @@
+##########################
+# use three letter codes used by
+#   - Record -> http://www.record.com.mx
+#   - Televisa Deportes -> http://televisadeportes.esmas.com
+
+
+Key,           Name,                     Code
+america,       Club América,             AME
+cruzazul,      Cruz Azul,                CAZ
+pumas,         Pumas UNAM,               PUM    # note: televisa uses UNM
+monterrey,     CF Monterrey,             MTY
+tigres,        Tigres UANL,              TIG
+chivas,        Guadalajara Chivas,       GUA
+atlas,         Atlas,                    ATS
+atlante,       Atlante,                  ATL    # note: televisa uses ATN
+jaguares,      Jaguares de Chiapas,      JAG
+leon,          Club León,                LEO
+morelia,       Monarcas Morelia,         MOR
+pachuca,       Pachuca,                  PAC
+puebla,        Puebla FC,                PUE
+queretaro,     Querétaro FC,             QRO
+santos,        Santos Laguna,            SAN   # note: televisa uses STS
+tijuana,       Club Tijuana,             TIJ
+toluca,        Deportivo Toluca,         TOL
+veracruz,      Veracruz,                  ?

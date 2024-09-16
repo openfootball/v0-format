@@ -1,0 +1,256 @@
+= Liga MX 2014/15, Clausura
+
+
+Jornada 1
+[Vie. 9.1.]
+  21.30  Monarcas Morelia         0-0  Deportivo Toluca FC
+  20.00  Santos Laguna            1-2 (1-0)  Tiburones Rojos Veracruz
+[Sáb. 10.1.]
+  17.00  Club América             3-2 (2-2)  Club León
+         Club Puebla              2-1 (1-0)  Club Tijuana
+  19.00  Tigres UANL              0-1 (0-0)  Club Atlas
+  21.00  Jaguares Chiapas         2-1 (0-0)  CD Guadalajara Chivas
+  20.06  CF Pachuca               0-1 (0-1)  Cruz Azul
+[Dom. 11.1.]
+  12.00  Pumas UNAM               1-1 (1-0)  Querétaro FC
+  17.00  Leones Negros U. de G.   1-0 (0-0)  CF Monterrey
+
+
+Jornada 2
+[Vie. 16.1.]
+  19.30  Querétaro FC             1-0 (0-0)  Leones Negros U. de G.
+  20.30  Tiburones Rojos Veracruz  3-1 (1-0)  Club Puebla
+  21.30  Club Tijuana             1-0 (1-0)  Club América
+[Sáb. 17.1.]
+  17.00  Cruz Azul                1-0 (0-0)  Santos Laguna
+  21.00  Club Atlas               2-1 (0-1)  Monarcas Morelia
+  20.06  Club León                0-1 (0-0)  Tigres UANL
+  19.00  CF Monterrey             1-0 (0-0)  CF Pachuca
+[Dom. 18.1.]
+  12.00  Deportivo Toluca FC      3-0 (1-0)  Jaguares Chiapas
+  17.00  CD Guadalajara Chivas    2-1 (2-0)  Pumas UNAM
+
+
+Jornada 3
+[Vie. 23.1.]
+  19.30  Monarcas Morelia         0-0  Club León
+  20.30  Tiburones Rojos Veracruz  0-0  Cruz Azul
+  21.30  Santos Laguna            4-1 (2-0)  CF Monterrey
+[Sáb. 24.1.]
+  17.00  Club América             0-0  Club Puebla
+  19.00  Tigres UANL              1-2 (1-1)  Club Tijuana
+  20.06  CF Pachuca               2-1 (2-0)  Querétaro FC
+  21.00  Jaguares Chiapas         3-1 (0-0)  Club Atlas
+[Dom. 25.1.]
+  12.00  Pumas UNAM               3-2 (2-0)  Deportivo Toluca FC
+  17.00  Leones Negros U. de G.   1-1 (0-0)  CD Guadalajara Chivas
+
+
+Jornada 4
+[Vie. 30.1.]
+  19.30  Querétaro FC             0-1 (0-1)  Santos Laguna
+  21.30  Club Tijuana             4-2 (1-0)  Monarcas Morelia
+[Sáb. 31.1.]
+  17.00  Club América             1-0 (1-0)  Tigres UANL
+         Club Puebla              0-0  Cruz Azul
+  19.00  CF Monterrey             1-1 (1-0)  Tiburones Rojos Veracruz
+         CD Guadalajara Chivas    1-0 (0-0)  CF Pachuca
+  20.06  Club León                1-1 (1-1)  Jaguares Chiapas
+  21.00  Club Atlas               1-1 (1-0)  Pumas UNAM
+[Dom. 1.2.]
+  12.00  Deportivo Toluca FC      3-1 (2-0)  Leones Negros U. de G.
+
+
+Jornada 5
+[Vie. 6.2.]
+  19.30  Monarcas Morelia         2-2 (1-1)  Club América
+  20.30  Tiburones Rojos Veracruz  1-1 (0-0)  Querétaro FC
+  21.30  Santos Laguna            1-0 (0-0)  CD Guadalajara Chivas
+[Sáb. 7.2.]
+  17.00  Cruz Azul                1-0 (1-0)  CF Monterrey
+  19.00  Tigres UANL              1-0 (0-0)  Club Puebla
+  21.00  Jaguares Chiapas         2-2 (1-1)  Club Tijuana
+  20.06  CF Pachuca               1-1 (1-0)  Deportivo Toluca FC
+[Dom. 8.2.]
+  12.00  Pumas UNAM               1-3 (0-2)  Club León
+  17.00  Leones Negros U. de G.   0-2 (0-1)  Club Atlas
+
+
+Jornada 6
+[Vie. 13.2.]
+  21.30  Club Tijuana             3-0 (2-0)  Pumas UNAM
+  19.30  Querétaro FC             1-2 (1-1)  Cruz Azul
+[Sáb. 14.2.]
+  17.00  Club Puebla              2-0 (0-0)  CF Monterrey
+         Club América             5-0 (3-0)  Jaguares Chiapas
+  19.00  Tigres UANL              1-0 (0-0)  Monarcas Morelia
+  21.00  Club Atlas               1-3 (0-1)  CF Pachuca
+  20.06  Club León                2-1 (1-0)  Leones Negros U. de G.
+[Dom. 15.2.]
+  12.00  Deportivo Toluca FC      2-2 (2-1)  Santos Laguna
+  17.00  CD Guadalajara Chivas    0-0  Tiburones Rojos Veracruz
+
+
+Jornada 7
+[Vie. 20.2.]
+  19.30  Monarcas Morelia         1-2 (1-1)  Club Puebla
+  20.30  Tiburones Rojos Veracruz  3-0 (0-0)  Deportivo Toluca FC
+  21.30  Santos Laguna            0-1 (0-0)  Club Atlas
+[Sáb. 21.2.]
+  17.00  Cruz Azul                1-2 (1-0)  CD Guadalajara Chivas
+  21.00  Jaguares Chiapas         1-0 (1-0)  Tigres UANL
+  20.06  CF Pachuca               2-1 (0-0)  Club León
+  19.00  CF Monterrey             2-1 (0-0)  Querétaro FC
+[Dom. 22.2.]
+  12.00  Pumas UNAM               0-1 (0-0)  Club América
+  17.00  Leones Negros U. de G.   0-1 (0-1)  Club Tijuana
+
+
+Jornada 8
+[Vie. 27.2.]
+  19.30  Monarcas Morelia         3-2 (0-1)  Jaguares Chiapas
+  21.30  Club Tijuana             3-2 (0-2)  CF Pachuca
+[Sáb. 28.2.]
+  17.00  Club Puebla              4-1 (3-0)  Querétaro FC
+         Club América             0-1 (0-1)  Leones Negros U. de G.
+  21.00  Club Atlas               0-3 (0-1)  Tiburones Rojos Veracruz
+  20.06  Club León                2-1 (0-1)  Santos Laguna
+  19.00  Tigres UANL              3-0 (2-0)  Pumas UNAM
+[Dom. 1.3.]
+  12.00  Deportivo Toluca FC      1-0 (0-0)  Cruz Azul
+  17.00  CD Guadalajara Chivas    3-0 (1-0)  CF Monterrey
+
+
+Jornada 9
+[Vie. 6.3.]
+  19.00  Tiburones Rojos Veracruz  1-0 (1-0)  Club León
+  19.30  Querétaro FC             1-0 (0-0)  CD Guadalajara Chivas
+[Sáb. 7.3.]
+  17.00  Cruz Azul                1-1 (1-0)  Club Atlas
+  21.00  Jaguares Chiapas         2-2 (0-0)  Club Puebla
+  19.00  CF Monterrey             3-2 (3-1)  Deportivo Toluca FC
+  20.06  CF Pachuca               0-0  Club América
+  19.00  Santos Laguna            1-1 (1-0)  Club Tijuana
+[Dom. 8.3.]
+  17.00  Leones Negros U. de G.   2-1 (1-0)  Tigres UANL
+  12.00  Pumas UNAM               2-1 (1-1)  Monarcas Morelia
+
+
+Jornada 10
+[Vie. 13.3.]
+  19.30  Monarcas Morelia         0-1 (0-1)  Leones Negros U. de G.
+  21.30  Club Tijuana             3-1 (1-1)  Tiburones Rojos Veracruz
+[Sáb. 14.3.]
+  21.00  Jaguares Chiapas         0-2 (0-1)  Pumas UNAM
+  17.00  Club Puebla              1-2 (1-0)  CD Guadalajara Chivas
+  19.00  Tigres UANL              2-1 (1-1)  CF Pachuca
+  20.06  Club León                2-2 (1-2)  Cruz Azul
+  21.00  Club Atlas               2-1 (0-0)  CF Monterrey
+  17.00  Club América             1-0 (0-0)  Santos Laguna
+[Dom. 15.3.]
+  12.00  Deportivo Toluca FC      1-0 (0-0)  Querétaro FC
+
+
+Jornada 11
+[Vie. 20.3.]
+  19.30  Querétaro FC             2-0 (0-0)  Club Atlas
+  20.30  Tiburones Rojos Veracruz  4-0 (2-0)  Club América
+  21.30  Santos Laguna            2-2 (1-0)  Tigres UANL
+[Sáb. 21.3.]
+  17.00  Cruz Azul                2-1 (1-1)  Club Tijuana
+  21.00  Leones Negros U. de G.   0-1 (0-1)  Jaguares Chiapas
+  20.06  CF Pachuca               2-0 (1-0)  Monarcas Morelia
+  19.00  CF Monterrey             5-1 (2-1)  Club León
+[Dom. 22.3.]
+  12.00  Pumas UNAM               2-1 (1-1)  Club Puebla
+  17.00  CD Guadalajara Chivas    1-0 (0-0)  Deportivo Toluca FC
+
+
+Jornada 12
+[Vie. 3.4.]
+  20.30  Monarcas Morelia         0-1 (0-0)  Santos Laguna
+[Sáb. 4.4.]
+  18.00  Club Puebla              0-1 (0-0)  Deportivo Toluca FC
+         Club América             1-0 (0-0)  Cruz Azul
+  20.00  Tigres UANL              3-1 (3-1)  Tiburones Rojos Veracruz
+         Jaguares Chiapas         2-2 (1-0)  CF Pachuca
+  21.06  Club León                4-5 (1-2)  Querétaro FC
+  22.00  Club Atlas               1-1 (1-1)  CD Guadalajara Chivas
+         Club Tijuana             3-4 (1-2)  CF Monterrey
+[Dom. 5.4.]
+  12.00  Pumas UNAM               2-0 (0-0)  Leones Negros U. de G.
+
+
+Jornada 13
+[Vie. 10.4.]
+  21.30  Santos Laguna            4-3 (2-2)  Jaguares Chiapas
+  20.30  Tiburones Rojos Veracruz  1-1 (0-0)  Monarcas Morelia
+  19.30  Querétaro FC             2-1 (2-1)  Club Tijuana
+[Sáb. 11.4.]
+  17.00  Cruz Azul                2-0 (2-0)  Tigres UANL
+  19.00  CF Monterrey             1-1 (1-1)  Club América
+  21.00  Leones Negros U. de G.   1-1 (0-0)  Club Puebla
+  20.06  CF Pachuca               3-1 (1-0)  Pumas UNAM
+[Dom. 12.4.]
+  17.00  CD Guadalajara Chivas    1-0 (0-0)  Club León
+  12.00  Deportivo Toluca FC      0-0  Club Atlas
+
+
+Jornada 14
+[Vie. 17.4.]
+  19.30  Monarcas Morelia         2-0 (1-0)  Cruz Azul
+  20.30  Jaguares Chiapas         1-1 (0-1)  Tiburones Rojos Veracruz
+  21.30  Club Tijuana             1-1 (1-0)  CD Guadalajara Chivas
+[Sáb. 18.4.]
+  17.00  Club Puebla              0-1 (0-1)  Club Atlas
+         Club América             0-4 (0-2)  Querétaro FC
+  20.06  Club León                1-1 (0-0)  Deportivo Toluca FC
+  19.00  Tigres UANL              3-0 (0-0)  CF Monterrey
+[Dom. 19.4.]
+  17.00  Leones Negros U. de G.   1-1 (0-1)  CF Pachuca
+  12.00  Pumas UNAM               1-0 (1-0)  Santos Laguna
+
+
+Jornada 15
+[Vie. 24.4.]
+  19.30  Querétaro FC             1-3 (0-3)  Tigres UANL
+  20.30  Tiburones Rojos Veracruz  3-3 (2-1)  Pumas UNAM
+  21.30  Santos Laguna            1-0 (1-0)  Leones Negros U. de G.
+[Sáb. 25.4.]
+  17.00  Cruz Azul                0-1 (0-1)  Jaguares Chiapas
+  19.00  CF Monterrey             1-0 (0-0)  Monarcas Morelia
+  20.06  CF Pachuca               2-1 (0-1)  Club Puebla
+  21.00  Club Atlas               3-2 (1-2)  Club León
+[Dom. 26.4.]
+  12.00  Deportivo Toluca FC      2-0 (1-0)  Club Tijuana
+  18.30  CD Guadalajara Chivas    1-1 (0-1)  Club América
+
+
+Jornada 16
+[Vie. 1.5.]
+  21.30  Club Tijuana             1-2 (1-0)  Club Atlas
+  19.30  Monarcas Morelia         1-2 (0-0)  Querétaro FC
+[Sáb. 2.5.]
+  17.00  Club Puebla              2-0 (2-0)  Club León
+  19.00  Club América             3-1 (1-0)  Deportivo Toluca FC
+  21.00  Jaguares Chiapas         0-2 (0-2)  CF Monterrey
+  20.06  CF Pachuca               2-3 (1-1)  Santos Laguna
+  19.00  Tigres UANL              2-1 (2-0)  CD Guadalajara Chivas
+[Dom. 3.5.]
+  12.00  Pumas UNAM               0-1 (0-1)  Cruz Azul
+  17.00  Leones Negros U. de G.   1-2 (1-0)  Tiburones Rojos Veracruz
+
+
+Jornada 17
+[Vie. 8.5.]
+  19.30  Querétaro FC             1-0 (0-0)  Jaguares Chiapas
+  20.30  Tiburones Rojos Veracruz  1-2 (0-0)  CF Pachuca
+[Sáb. 9.5.]
+  19.00  CF Monterrey             2-2 (0-0)  Pumas UNAM
+  20.06  Club León                6-2 (4-1)  Club Tijuana
+  21.00  Club Atlas               1-2 (0-0)  Club América
+  20.30  Cruz Azul                0-2 (0-1)  Leones Negros U. de G.
+         Santos Laguna            2-2 (1-1)  Club Puebla
+[Dom. 10.5.]
+  12.00  Deportivo Toluca FC      0-0  Tigres UANL
+  17.00  CD Guadalajara Chivas    2-3 (1-2)  Monarcas Morelia

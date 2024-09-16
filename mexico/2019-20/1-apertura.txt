@@ -1,0 +1,286 @@
+= Liga MX 2019/20, Apertura
+
+
+Jornada 1
+[Vie. 19.7.]
+  19.00  Club Puebla              1-3 (1-1)  Club Tijuana
+  21.45  Club Atlas               1-0 (0-0)  FC Juárez
+[Sáb. 20.7.]
+  17.00  CF Pachuca               1-3 (0-2)  Club León
+         Atlético San Luis        0-2 (0-0)  Pumas UNAM
+  19.05  Club América             4-2 (2-2)  CF Monterrey
+  21.00  Tigres UANL              4-2 (3-0)  Monarcas Morelia
+         Club Necaxa              0-0  Cruz Azul
+[Dom. 21.7.]
+  12.00  Deportivo Toluca FC      0-2 (0-0)  Querétaro FC
+  18.45  Santos Laguna            3-0 (1-0)  CD Guadalajara Chivas
+
+
+Jornada 2
+[Vie. 26.7.]
+  19.00  Monarcas Morelia         0-1 (0-0)  Club Atlas
+  21.00  Tiburones Rojos Veracruz  3-3 (2-1)  CF Pachuca
+[Sáb. 27.7.]
+  19.00  Club León                0-0  Club América
+  21.06  Club Tijuana             1-1 (1-0)  Querétaro FC
+  21.00  Cruz Azul                1-1 (0-0)  Deportivo Toluca FC
+[Dom. 28.7.]
+  12.00  Pumas UNAM               2-0 (1-0)  Club Necaxa
+  17.00  Atlético San Luis        1-0 (1-0)  CF Monterrey
+  19.00  CD Guadalajara Chivas    2-0 (1-0)  Tigres UANL
+  18.45  Santos Laguna            3-0 (0-0)  FC Juárez
+
+
+Jornada 3
+[Vie. 2.8.]
+  19.00  Club Puebla              1-1 (1-1)  CD Guadalajara Chivas
+  21.00  Club Atlas               1-2 (0-1)  Santos Laguna
+[Sáb. 3.8.]
+  17.00  Querétaro FC             3-0 (1-0)  Cruz Azul
+  19.00  Club América             3-1 (0-0)  Club Tijuana
+  21.06  CF Monterrey             3-2 (1-2)  Club León
+  21.05  Club Necaxa              7-0 (1-0)  Tiburones Rojos Veracruz
+  19.00  CF Pachuca               1-2 (0-1)  Monarcas Morelia
+[Dom. 4.8.]
+  12.00  Pumas UNAM               0-1 (0-0)  Tigres UANL
+  19.00  FC Juárez                2-0 (1-0)  Deportivo Toluca FC
+
+
+Jornada 4
+[Vie. 9.8.]
+  19.00  Monarcas Morelia         0-1 (0-0)  CF Monterrey
+  21.00  Tiburones Rojos Veracruz  1-2 (1-0)  Club Atlas
+  21.06  Club Tijuana             1-0 (1-0)  Pumas UNAM
+[Sáb. 10.8.]
+  21.05  CD Guadalajara Chivas    3-0 (1-0)  Atlético San Luis
+  17.00  Cruz Azul                2-0 (0-0)  FC Juárez
+  19.00  Tigres UANL              3-1 (3-1)  Club Necaxa
+  17.00  Querétaro FC             2-1 (0-1)  CF Pachuca
+[Dom. 11.8.]
+  18.45  Santos Laguna            4-1 (2-1)  Club Puebla
+  12.00  Deportivo Toluca FC      0-1 (0-0)  Club América
+
+
+Jornada 5
+[Vie. 16.8.]
+  19.00  Club Puebla              0-4 (0-2)  CF Pachuca
+  21.00  Club Atlas               1-3 (0-2)  Cruz Azul
+[Sáb. 17.8.]
+  17.00  Atlético San Luis        1-1 (0-0)  Tigres UANL
+  19.00  Club León                4-3 (2-1)  CD Guadalajara Chivas
+  21.06  CF Monterrey             2-0 (1-0)  Deportivo Toluca FC
+  21.05  Club América             1-0 (0-0)  Monarcas Morelia
+[Dom. 18.8.]
+  12.00  Pumas UNAM               2-0 (0-0)  Tiburones Rojos Veracruz
+  19.00  FC Juárez                0-2 (0-0)  Querétaro FC
+  17.00  Club Necaxa              3-0 (0-0)  Santos Laguna
+
+
+Jornada 6
+[Vie. 23.8.]
+  19.00  Tiburones Rojos Veracruz  1-2 (1-1)  Atlético San Luis
+  21.00  Monarcas Morelia         2-0 (1-0)  Pumas UNAM
+         Santos Laguna            2-1 (2-0)  CF Monterrey
+[Sáb. 24.8.]
+  17.00  Querétaro FC             0-4 (0-1)  Club León
+  19.00  CF Pachuca               3-1 (2-0)  Club Atlas
+         Cruz Azul                1-1 (0-0)  Club Puebla
+  21.05  Tigres UANL              1-1 (1-0)  Club América
+[Dom. 25.8.]
+  12.00  Deportivo Toluca FC      2-0 (1-0)  Club Tijuana
+  17.00  CD Guadalajara Chivas    1-2 (0-2)  Club Necaxa
+
+
+Jornada 7
+[Mar. 27.8.]
+  19.00  Tiburones Rojos Veracruz  0-5 (0-3)  Querétaro FC
+         Atlético San Luis        1-1 (1-0)  Monarcas Morelia
+  21.00  Club América             1-1 (0-0)  CF Pachuca
+  19.00  Club Atlas               1-1 (0-0)  Tigres UANL
+[Mié. 28.8.]
+  19.00  Club León                2-2 (1-1)  Santos Laguna
+  21.00  Club Necaxa              1-1 (1-1)  Deportivo Toluca FC
+  21.06  Club Tijuana             3-2 (1-2)  Cruz Azul
+[Jue. 29.8.]
+  21.00  CF Monterrey             2-0 (1-0)  Pumas UNAM
+  19.00  Club Puebla              2-1 (0-1)  FC Juárez
+
+
+Jornada 8
+[Vie. 30.8.]
+  21.10  Club Atlas               3-0 (1-0)  Club América
+  19.00  Monarcas Morelia         1-0 (0-0)  Tiburones Rojos Veracruz
+[Sáb. 31.8.]
+  17.00  Club Necaxa              3-2 (1-2)  Club Tijuana
+  21.05  Cruz Azul                1-1 (1-1)  CD Guadalajara Chivas
+  19.00  CF Pachuca               0-2 (0-0)  Atlético San Luis
+         Tigres UANL              1-1 (0-1)  Club León
+[Dom. 1.9.]
+  12.00  Pumas UNAM               2-1 (0-0)  Deportivo Toluca FC
+  17.00  Querétaro FC             1-1 (1-0)  Club Puebla
+  19.00  FC Juárez                1-0 (1-0)  CF Monterrey
+
+
+Jornada 9
+[Vie. 13.9.]
+  19.00  Club Puebla              1-3 (1-2)  Atlético San Luis
+  21.06  Club Tijuana             1-1 (0-1)  Tigres UANL
+  21.00  Tiburones Rojos Veracruz  0-0  Cruz Azul
+[Sáb. 14.9.]
+  17.00  CF Monterrey             0-2 (0-1)  Club Necaxa
+  19.00  Club León                3-1 (0-1)  FC Juárez
+         CD Guadalajara Chivas    1-0 (0-0)  Club Atlas
+  21.06  Club América             1-1 (0-0)  Pumas UNAM
+[Dom. 15.9.]
+  12.00  Deportivo Toluca FC      0-2 (0-0)  Monarcas Morelia
+  18.45  Santos Laguna            2-2 (1-2)  CF Pachuca
+
+
+Jornada 10
+[Vie. 20.9.]
+  21.00  Monarcas Morelia         1-0 (1-0)  CD Guadalajara Chivas
+         Club Atlas               0-1 (0-1)  Deportivo Toluca FC
+[Sáb. 21.9.]
+  17.00  Atlético San Luis        2-3 (2-2)  Santos Laguna
+         Club Necaxa              2-4 (0-1)  Club León
+  21.00  Club América             2-2 (1-1)  Querétaro FC
+  19.00  CF Pachuca               4-1 (3-0)  Club Tijuana
+  17.00  CF Monterrey             3-2 (2-0)  Club Puebla
+[Dom. 22.9.]
+  12.00  Pumas UNAM               1-1 (0-0)  Cruz Azul
+  19.00  FC Juárez                2-0 (2-0)  Tiburones Rojos Veracruz
+
+
+Jornada 11
+[Mar. 24.9.]
+  19.00  Querétaro FC             1-2 (0-0)  Club Necaxa
+         Tigres UANL              0-1 (0-0)  Club Puebla
+  21.00  Club León                1-1 (0-1)  Club Atlas
+         CD Guadalajara Chivas    2-4 (1-1)  CF Pachuca
+[Mié. 25.9.]
+  21.06  Club Tijuana             3-2 (2-1)  Monarcas Morelia
+  19.00  Santos Laguna            5-0 (1-0)  Tiburones Rojos Veracruz
+  21.05  Cruz Azul                1-1 (0-0)  CF Monterrey
+  19.00  FC Juárez                1-1 (1-0)  Club América
+[Jue. 26.9.]
+  20.00  Deportivo Toluca FC      3-1 (1-0)  Atlético San Luis
+
+
+Jornada 12
+[Vie. 27.9.]
+  19.00  Club Puebla              2-1 (1-0)  Club León
+  21.00  Club Atlas               2-0 (1-0)  Querétaro FC
+[Sáb. 28.9.]
+  17.00  CF Pachuca               2-0 (1-0)  Cruz Azul
+  19.00  Club Necaxa              0-0  FC Juárez
+  19.06  CF Monterrey             0-2 (0-0)  Tigres UANL
+  21.05  Club América             4-1 (2-0)  CD Guadalajara Chivas
+[Dom. 29.9.]
+  12.00  Pumas UNAM               2-0 (0-0)  Santos Laguna
+  17.00  Atlético San Luis        2-3 (0-0)  Club Tijuana
+  19.00  Tiburones Rojos Veracruz  1-1 (0-0)  Deportivo Toluca FC
+
+
+Jornada 13
+[Vie. 4.10.]
+  21.00  Monarcas Morelia         2-3 (2-0)  Club Necaxa
+[Sáb. 5.10.]
+  21.06  Club Tijuana             2-2 (1-1)  Club Atlas
+  17.00  Club León                1-1 (0-0)  Tiburones Rojos Veracruz
+  19.00  Tigres UANL              4-0 (2-0)  Santos Laguna
+  21.05  CD Guadalajara Chivas    1-1 (1-0)  Pumas UNAM
+  19.00  Cruz Azul                5-2 (1-2)  Club América
+[Dom. 6.10.]
+  12.00  Deportivo Toluca FC      1-1 (0-0)  Club Puebla
+  18.00  FC Juárez                1-2 (1-1)  Atlético San Luis
+  20.00  Querétaro FC             2-1 (2-1)  CF Monterrey
+
+
+Jornada 14
+[Vie. 18.10.]
+  19.00  Club Puebla              0-1 (0-0)  Club Atlas
+  21.00  Tiburones Rojos Veracruz  1-3 (0-3)  Tigres UANL
+  21.06  Santos Laguna            4-1 (3-0)  Club Tijuana
+[Sáb. 19.10.]
+  17.00  Cruz Azul                2-3 (1-1)  Monarcas Morelia
+  19.00  CF Pachuca               0-1 (0-0)  FC Juárez
+  21.00  Club Necaxa              2-2 (0-0)  Club América
+[Dom. 20.10.]
+  19.00  CF Monterrey             1-1 (1-1)  CD Guadalajara Chivas
+  17.00  Atlético San Luis        0-2 (0-2)  Querétaro FC
+  12.00  Pumas UNAM               1-2 (1-1)  Club León
+
+
+Jornada 15
+[Vie. 25.10.]
+  19.00  Monarcas Morelia         2-2 (2-1)  Santos Laguna
+  21.00  Club Tijuana             2-0 (0-0)  Tiburones Rojos Veracruz
+         Club Atlas               0-2 (0-0)  Club Necaxa
+[Sáb. 26.10.]
+  20.05  Tigres UANL              1-1 (0-1)  Cruz Azul
+  19.00  Club América             2-0 (0-0)  Club Puebla
+         Club León                3-2 (1-2)  Atlético San Luis
+  17.00  Querétaro FC             3-0 (2-0)  Pumas UNAM
+[Dom. 27.10.]
+  12.00  Deportivo Toluca FC      2-0 (0-0)  CF Pachuca
+  19.00  FC Juárez                1-2 (1-0)  CD Guadalajara Chivas
+
+
+Jornada 16
+[Mar. 29.10.]
+  19.00  Santos Laguna            1-0 (1-0)  Querétaro FC
+         Tiburones Rojos Veracruz  1-0 (0-0)  Club Puebla
+         Atlético San Luis        0-1 (0-0)  Club América
+  21.00  Pumas UNAM               5-1 (1-1)  Club Atlas
+[Mié. 30.10.]
+  19.00  CF Pachuca               2-3 (1-2)  CF Monterrey
+  21.00  CD Guadalajara Chivas    0-1 (0-1)  Club Tijuana
+         Tigres UANL              1-0 (0-0)  Deportivo Toluca FC
+[Jue. 31.10.]
+  21.00  Cruz Azul                1-0 (0-0)  Club León
+  19.00  Monarcas Morelia         6-1 (2-0)  FC Juárez
+
+
+Jornada 17
+[Vie. 1.11.]
+  19.00  Club Puebla              1-1 (0-0)  Pumas UNAM
+  21.00  Club Atlas               1-2 (1-0)  Atlético San Luis
+[Sáb. 2.11.]
+  17.00  Querétaro FC             0-0  Tigres UANL
+  19.00  Club América             1-2 (1-0)  Santos Laguna
+  21.05  Club Necaxa              1-2 (0-1)  CF Pachuca
+  19.00  CF Monterrey             1-1 (0-0)  Tiburones Rojos Veracruz
+[Dom. 3.11.]
+  12.00  Deportivo Toluca FC      1-3 (1-2)  CD Guadalajara Chivas
+  20.00  Club León                1-1 (1-1)  Monarcas Morelia
+  19.00  FC Juárez                3-0 (1-0)  Club Tijuana
+
+
+Jornada 18
+[Vie. 8.11.]
+  19.00  Monarcas Morelia         3-2 (1-1)  Club Puebla
+  21.00  Tiburones Rojos Veracruz  0-5 (0-3)  Club América
+  21.10  Club Tijuana             0-4 (0-1)  CF Monterrey
+[Sáb. 9.11.]
+  17.00  Atlético San Luis        0-2 (0-1)  Club Necaxa
+  21.00  Club León                4-0 (1-0)  Deportivo Toluca FC
+         CD Guadalajara Chivas    3-2 (3-0)  Querétaro FC
+  19.00  Tigres UANL              0-0  CF Pachuca
+[Dom. 10.11.]
+  12.00  Pumas UNAM               1-1 (1-0)  FC Juárez
+  18.45  Santos Laguna            3-1 (2-0)  Cruz Azul
+
+
+Jornada 19
+[Vie. 22.11.]
+  19.00  Club Puebla              3-0 (3-0)  Club Necaxa
+  21.10  Club Tijuana             1-2 (0-1)  Club León
+[Sáb. 23.11.]
+  19.00  Cruz Azul                3-1 (1-1)  Atlético San Luis
+  17.00  Querétaro FC             3-1 (0-0)  Monarcas Morelia
+  21.00  CD Guadalajara Chivas    3-1 (0-1)  Tiburones Rojos Veracruz
+         CF Pachuca               2-0 (1-0)  Pumas UNAM
+  19.00  CF Monterrey             2-0 (2-0)  Club Atlas
+[Dom. 24.11.]
+  19.00  FC Juárez                1-2 (0-1)  Tigres UANL
+  12.00  Deportivo Toluca FC      2-2 (2-2)  Santos Laguna
