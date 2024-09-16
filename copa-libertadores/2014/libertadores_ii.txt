@@ -1,0 +1,205 @@
+#########################################
+#  Copa Libertadores de América 2014
+#
+# -- Second Stage // February 11 to April 10 --
+
+
+
+# fix: change naccional to:
+# Nacional de Asunción (Paraguay)  -- group 4
+# Nacional de Montevideo (Uruguay) -- group 6
+
+Group 1  |  Vélez Sarsfield    The Strongest      Universitario             Atlético Paranaense
+Group 2  |  Unión Española     San Lorenzo        Independiente del Valle   Botafogo
+Group 3  |  Cerro Porteño      O'Higgins          Deportivo Cali            Lanús
+Group 4  |  Atlético Mineiro   Nacional           Zamora                    Santa Fe
+Group 5  |  Cruzeiro           Defensor Sporting  Real Garcilaso            Universidad de Chile
+Group 6  |  Newell's Old Boys  Grêmio             Atlético Nacional         Nacional (Uruguay)
+Group 7  |  Bolívar            Flamengo           Emelec                    León
+Group 8  |  Peñarol            Arsenal            Deportivo Anzoátegui      Santos Laguna
+
+
+Matchday 1  |  Feb/11 – Feb/13
+Matchday 2  |  Feb/18 – Feb/20
+Matchday 3  |  Feb/25 – Feb/27
+Matchday 4  |  Mar/11 - Mar/13
+Matchday 5  |  Mar/18 – Mar/20
+Matchday 6  |  Mar/25 – Mar/27
+Matchday 7  |  Apr/1  - Apr/3
+Matchday 8  |  Apr/8  - Apr/10
+
+
+Group 1:
+
+Feb/11 21:30   Universitario        0-1   Vélez Sarsfield  @ Estadio Monumental, Lima (UTC-5)
+Feb/13 20:00   Atlético Paranaense  1-0   The Strongest    @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+
+Feb/20 21:15   The Strongest        1-0   Universitario        @ Estadio Hernando Siles, La Paz (UTC-4)
+Feb/25 19:45   Vélez Sarsfield      2-0   Atlético Paranaense  @ Estadio José Amalfitani, Buenos Aires (UTC-3)
+
+Mar/11 20:15   The Strongest        2-0   Vélez Sarsfield      @ Estadio Hernando Siles, La Paz (UTC-4)
+Mar/13 20:30   Universitario        0-1   Atlético Paranaense  @ Estadio Monumental, Lima (UTC-5)
+
+Mar/18 22:00   Vélez Sarsfield      2-0   The Strongest     @ Estadio José Amalfitani, Buenos Aires (UTC-3)
+Mar/20 18:30   Atlético Paranaense  3-0   Universitario     @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+
+Mar/26 23:00   Atlético Paranaense  1-3   Vélez Sarsfield   @ Estadio Durival de Britto e Silva, Curitiba (UTC-2)
+Mar/27 21:00   Universitario        3-3   The Strongest     @ Estadio Monumental, Lima (UTC-5)
+
+Apr/8 19:45   Vélez Sarsfield       1-0   Universitario           @ Estadio José Amalfitani, Buenos Aires (UTC-3) 
+Apr/8 18:45   The Strongest         2-1   Atlético Paranaense     @ Estadio Hernando Siles, La Paz (UTC-4)
+
+
+
+Group 2:
+
+Feb/11 20:00   Botafogo                 2-0   San Lorenzo     @ Estadio Maracanã, Río de Janeiro (UTC-2)
+Feb/18 20:30   Independiente del Valle  2-2   Unión Española  @ Estadio Rumiñahui, Sangolquí (UTC-5)
+
+Feb/26 19:45   Unión Española   1-1   Botafogo    @ Estadio Santa Laura, Santiago de Chile (UTC-3)
+Feb/27 19:30   San Lorenzo      1-0   Independiente del Valle   @ Estadio «Nuevo Gasómetro», Buenos Aires (UTC-3) 
+
+Mar/12 17:45  Independiente del Valle  2-1  Botafogo         @ Estadio Rumiñahui, Sangolquí (UTC-5) 
+Mar/12 19:45  San Lorenzo              1-1  Unión Española   @ Estadio Nuevo Gasómetro, Buenos Aires (UTC-3) 
+
+Mar/18 23:00  Botafogo        1-0  Independiente del Valle   @ Estadio Maracanã, Río de Janeiro (UTC-2) 
+Mar/20 22:00  Unión Española  1-0  San Lorenzo               @ Estadio Santa Laura, Santiago de Chile (UTC-3) 
+
+Mar/27 18:45  Independiente del Valle  1-1   San Lorenzo    @ Estadio Olímpico Atahualpa, Quito (UTC-5) 
+Apr/2 20:45   Botafogo                 0-1   Unión Española @ Estadio «Maracanã», Río de Janeiro (UTC-2) 
+
+Apr/9 19:45   Unión Española           4-5   Independiente del Valle   @ Estadio Santa Laura, Santiago de Chile (UTC-3)
+Apr/9 19:45   San Lorenzo              3-0   Botafogo   @ Estadio Nuevo Gasómetro, Buenos Aires (UTC-3)
+
+
+
+Group 3:
+
+Feb/12 21:15   Deportivo Cali  1-0  Cerro Porteño  @ Estadio Olímpico Pascual Guerrero, Cali   (UTC-5)
+Feb/13 21:15   Lanús           0-0  O'Higgins      @ Estadio Ciudad de Lanús, Lanús   (UTC-3)
+
+Feb/19 21:45   O'Higgins      1-0   Deportivo Cali   @ Estadio Monumental (Chile), Santiago (UTC-3)
+Feb/26 19:45   Cerro Porteño  3-1   Lanús            @ Estadio General Pablo Rojas, Asunción (UTC-3)
+
+Mar/13 21:15   O'Higgins  2-2  Cerro Porteño  @ Estadio Monumental, Santiago (Chile)  (UTC-3)
+Mar/13 21:30   Deportivo Cali  2-1   Lanús   @ Estadio Olímpico Pascual Guerrero, Cali  (UTC-5)
+
+Mar/20 19:45   Lanús  2-0   Deportivo Cali    @ Estadio Ciudad de Lanús, Lanús  (UTC-3)
+Mar/20 19:45   Cerro Porteño  2-1   O'Higgins  @ General Pablo Rojas, Asunción  (UTC-3)
+
+Mar/26 20:00   Deportivo Cali  1-1   O'Higgins   @ Estadio Olímpico Pascual Guerrero, Cali  (UTC-5)
+Mar/27 18:30   Lanús  2-0   Cerro Porteño        @ Estadio Ciudad de Lanús, Lanús  (UTC-3)
+
+Apr/8 21:00  Cerro Porteño  3-2   Deportivo Cali   @ Estadio General Pablo Rojas, Asunción  (UTC-4) 
+Apr/8 22:00  O'Higgins      0-0   Lanús            @ Estadio El Teniente, Rancagua (UTC-3)
+
+
+
+Group 4:
+
+Feb/11 19:45   Zamora  0-1   Atlético Mineiro    @ Estadio Agustín Tovar, Barinas  (UTC-4:30) 
+Feb/11 21:30   Santa Fe  3-1   Nacional          @ Estadio El Campín, Bogotá  (UTC-5)
+
+Feb/20 20:00    Nacional          1-0   Zamora     @ Estadio Arsenio Erico, Asunción  (UTC-3)
+Feb/26 23:00    Atlético Mineiro  2-1   Santa Fe   @ Estadio Independência, Belo Horizonte  (UTC-2)
+
+Mar/12 22:00   Nacional  2-2 Atlético Mineiro  @ Estadio Antonio Aranda, Ciudad del Este  (UTC-3)
+Mar/12 20:30   Zamora  2-1   Santa Fe          @ Estadio Agustín Tovar, Barinas  (UTC-4:30)
+
+Mar/18 20:00   Santa Fe          2-2   Zamora    @ Estadio El Campín, Bogotá  (UTC-5)
+Mar/19 20:45   Atlético Mineiro  1-1   Nacional  @ Estadio Independência, Belo Horizonte  (UTC-2)
+
+Mar/25 19:00   Zamora       2-0   Nacional          @ Estadio Agustín Tovar, Barinas  (UTC-4:30)
+Apr/3 21:15    Santa Fe     1-1   Atlético Mineiro  @ Estadio El Campín, Bogotá  (UTC-5)
+
+Apr/10 17:30   Atlético Mineiro  1-0   Zamora    @ Estadio Independência, Belo Horizonte  (UTC-3)
+Apr/10 17:30   Nacional          3-2   Santa Fe  @ Estadio Arsenio Erico, Asunción (UTC-3)
+
+
+
+Group 5:
+
+Feb/12 19:00   Real Garcilaso        2-1   Cruzeiro           @ Estadio Huancayo, Huancayo  (UTC-5)
+Feb/13 19:00   Universidad de Chile  1-0   Defensor Sporting  @ Estadio Nacional de Chile, Santiago de Chile  (UTC-3)
+
+Feb/19 20:30   Defensor Sporting  4-1   Real Garcilaso        @ Estadio Luis Franzini, Montevideo  (UTC-2)
+Feb/25 18:30   Cruzeiro           5-1   Universidad de Chile  @ Estadio Mineirão, Belo Horizonte  (UTC-2)
+
+Mar/11 19:00   Defensor Sporting  2-0   Cruzeiro              @ Estadio Luis Franzini, Montevideo  (UTC-2)
+Mar/11 21:30   Real Garcilaso     1-2   Universidad de Chile  @ Estadio Huancayo, Huancayo  (UTC-5)
+
+Mar/18 19:45   Universidad de Chile   1-0   Real Garcilaso      @ Estadio Santa Laura, Santiago de Chile  (UTC-3)
+Mar/20 23:00   Cruzeiro               2-2   Defensor Sporting   @ Estadio Mineirão, Belo Horizonte  (UTC-2) 
+
+Apr/1 19:00   Real Garcilaso        0-2   Defensor Sporting     @ Estadio Huancayo, Huancayo  (UTC-5)
+Apr/3 20:00   Universidad de Chile  0-2   Cruzeiro              @ Estadio Nacional de Chile, Santiago de Chile  (UTC-4)
+
+Apr/9 22:00   Cruzeiro              3-0   Real Garcilaso        @ Estadio Mineirão, Belo Horizonte  (UTC-3)
+Apr/9 22:00   Defensor Sporting     1-1   Universidad de Chile  @ Estadio Luis Franzini, Montevideo  (UTC-3)
+
+
+
+Group 6:
+
+Feb/13 22:15   Nacional           0-1   Grêmio             @ Estadio Gran Parque Central, Montevideo  (UTC-2)
+Feb/13 21:30   Atlético Nacional  1-0   Newell's Old Boys  @ Estadio Atanasio Girardot, Medellín  (UTC-5)
+
+Feb/25 22:00   Grêmio             3-0   Atlético Nacional  @ Estadio Arena do Grêmio, Porto Alegre  (UTC-3)
+Feb/27 21:45   Newell's Old Boys  4-0   Nacional           @ Estadio Marcelo Bielsa, Rosario  (UTC-3)
+
+Mar/11 19:15   Atlético Nacional  2-2   Nacional            @ Estadio Atanasio Girardot, Medellín  (UTC-5)
+Mar/13 21:15   Grêmio             0-0   Newell's Old Boys   @ Estadio Arena do Grêmio, Porto Alegre  (UTC-3)
+
+Mar/18 20:45   Nacional           0-1   Atlético Nacional   @ Estadio Gran Parque Central, Montevideo  (UTC-2)
+Mar/19 22:00   Newell's Old Boys  1-1   Grêmio              @ Estadio Marcelo Bielsa, Rosario  (UTC-3)
+
+Mar/26 19:45   Nacional           2-4   Newell's Old Boys   @ Estadio Centenario, Montevideo  (UTC-3)
+Apr/2 20:00    Atlético Nacional  0-2   Grêmio              @ Estadio Atanasio Girardot, Medellín  (UTC-5)
+
+Apr/10 22:00   Newell's Old Boys  1-3   Atlético Nacional   @ Estadio Marcelo Bielsa, Rosario  (UTC-3) 
+Apr/10 22:00   Grêmio             1-0   Nacional            @ Estadio Arena do Grêmio, Porto Alegre  (UTC-3)
+
+
+
+Group 7:
+
+Feb/12 18:00   León    2-1   Flamengo    @ Estadio León, León  (UTC-6)
+Feb/13 21:30   Emelec  2-1   Bolívar     @ Estadio George Capwell, Guayaquil  (UTC-5)
+
+Feb/19 21:45   Bolívar  1-1   León       @ Estadio Hernando Siles, La Paz  
+Feb/26 22:00   Flamengo  3-1   Emelec    @ Estadio Maracaná, Río de Janeiro  
+
+Mar/11 21:30   Emelec  2-1   León        @ Estadio George Capwell, Guayaquil  (UTC-5)
+Mar/12 22:00   Flamengo  2-2   Bolívar   @ Estadio Maracaná, Río de Janeiro  
+
+Mar/19 22:00   Bolívar  1-0   Flamengo    @ Estadio Hernando Siles, La Paz  
+Mar/19 22:00   León     3-0   Emelec      @ Estadio León, León  
+
+Mar/26 21:15   Leon    0-1   Bolívar    @ Estadio León, León  (UTC-6)
+Apr/2 20:00   Emelec  1-2   Flamengo   @ Estadio George Capwell, Guayaquil  (UTC-5)
+
+Apr/9 18:45  Bolívar   2-1   Emelec   @ Estadio Hernando Siles, La Paz (UTC-4)
+Apr/9 19:45  Flamengo  2-3   Leon     @ Estadio Maracaná, Río de Janeiro (UTC-3)  
+
+
+
+Group 8:
+
+Feb/11 21:15   Santos Laguna         1-0   Arsenal  @ Estadio Corona, Torreón  (UTC-6)
+Feb/12 17:15   Deportivo Anzoátegui  1-1   Peñarol  @ Estadio José A. Anzoátegui, Puerto La Cruz  (UTC-4:30)
+
+Feb/18 21:15   Peñarol  0-2   Santos Laguna         @ Estadio Centenario, Montevideo  (UTC-2)
+Feb/25 22:00   Arsenal  3-0   Deportivo Anzoátegui  @ Estadio Julio Humberto Grondona, Sarandí  (UTC-3)
+
+Mar/11 19:45   Deportivo Anzoátegui  1-1   Santos Laguna   @ Estadio José A. Anzoátegui, Puerto La Cruz  (UTC-4:30)
+Mar/13 19:00   Arsenal               1-0   Peñarol         @ Estadio Julio Humberto Grondona, Sarandí  (UTC-3)
+
+Mar/18 21:15   Santos Laguna  3-0   Deportivo Anzoátegui   @ Estadio Corona, Torreón  (UTC-6)
+Mar/19 20:45   Peñarol        2-1   Arsenal                @ Estadio Centenario, Montevideo  (UTC-2)
+
+Mar/25 20:00   Santos Laguna         4-1  Peñarol   @ Estadio Corona, Torreón  (UTC-6)
+Mar/27 21:30   Deportivo Anzoátegui  1-3  Arsenal   @ Estadio José A. Anzoátegui, Puerto La Cruz  (UTC-4:30)
+
+Apr/10 19:45   Peñarol  1-1   Deportivo Anzoátegui  @ Estadio Centenario, Montevideo  (UTC-3)
+Apr/10 19:45   Arsenal  3-0   Santos Laguna         @ Estadio Julio Humberto Grondona, Sarandí (UTC-3)
+

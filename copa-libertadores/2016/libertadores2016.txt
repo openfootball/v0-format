@@ -1,0 +1,156 @@
+########################################
+# Copa Libertadores da América - 2016
+
+Pré-Libertadores
+[Ter 02/02]
+	Huracán                   1 - 0                   Caracas
+	River Plate-URU           2 - 0      Universidad de Chile
+[Qua 03/02]
+	César Vallejo             1 - 1                 São Paulo
+[Qui 04/02]
+	Puebla                    2 - 2               Racing Club
+	Independiente del Valle   1 - 0               Guaraní-PAR
+	Oriente Petrolero         1 - 3                  Santa Fe
+[Ter 09/02]
+	Universidad de Chile      0 - 0           River Plate-URU
+	Caracas                   2 - 1                   Huracán
+[Qua 10/02]
+	São Paulo                 1 - 0             César Vallejo
+	Racing Club               1 - 0                    Puebla
+
+1a Rodada 
+[Ter 16/02]
+	River Plate-URU           2 - 2                 Palmeiras
+[Qua 17/02]
+	Deportivo Táchira         2 - 1               Olimpia-PAR
+	Santa Fe                  0 - 0             Cerro Porteño
+	São Paulo                 0 - 1             The Strongest
+	Cobresal                  0 - 1               Corinthians
+	Melgar                    1 - 2               Atlético-MG
+[Qui 18/02]
+	Toluca                    2 - 0                    Grêmio
+	Independiente del Valle   1 - 1                 Colo Colo
+	Sporting Cristal          1 - 1                   Peñarol
+[Sex 19/02]
+	Pumas UNAM                4 - 2                    Emelec
+
+2a rodada
+[Qua 24/02]
+	Colo Colo                 1 - 0                    Melgar
+	Atlético-MG               1 - 0   Independiente del Valle
+[Qui 25/02]
+	Cerro Porteño             2 - 1                  Cobresal
+	Emelec                    2 - 0         Deportivo Táchira
+[Ter 01/03]
+	Olimpia-PAR               0 - 2                Pumas UNAM
+	Peñarol                   0 - 1                   Huracán
+	Atlético Nacional         3 - 0          Sporting Cristal
+[Qua 02/03]
+	The Strongest             2 - 1               Trujillanos
+	Nacional-URU              0 - 0           River Plate-URU
+	San Lorenzo               1 - 1                    Toluca
+
+3a rodada
+[Ter 01/03]
+	Melgar                    0 - 1   Independiente del Valle
+[Ter 08/03]
+	Emelec                    2 - 2               Olimpia-PAR
+	Atlético Nacional         2 - 0                   Peñarol
+	Sporting Cristal          3 - 2                   Huracán
+[Qua 09/03]
+	Cobresal                  1 - 2                  Santa Fe
+	Cerro Porteño             3 - 2               Corinthians
+	Rosario Central           4 - 1           River Plate-URU
+	Grêmio                    1 - 1               San Lorenzo
+	Palmeiras                 1 - 2              Nacional-URU
+	Deportivo Táchira         2 - 0                Pumas UNAM
+
+4 rodada
+[Ter 15/03]
+	Independiente del Valle   2 - 0                    Melgar
+	Santa Fe                  3 - 0                  Cobresal
+	San Lorenzo               1 - 1                    Grêmio
+	Peñarol                   0 - 4         Atlético Nacional
+[Qua 16/03]
+	Atlético-MG               3 - 0                 Colo Colo
+	Corinthians               2 - 0             Cerro Porteño
+[Qui 17/03]
+	Olimpia-PAR               4 - 2                    Emelec
+	River Plate-URU           1 - 3           Rosario Central
+	Nacional-URU              1 - 0                 Palmeiras
+[Sex 18/03]
+	Pumas UNAM                4 - 1         Deportivo Táchira
+
+5 rodada
+[Ter 05/04]
+	Deportivo Táchira         1 - 0                    Emelec
+[Qua 06/04]
+	Santa Fe                  1 - 1               Corinthians
+	Rosario Central           3 - 3                 Palmeiras
+	Independiente del Valle   3 - 2               Atlético-MG
+[Qui 07/04]
+	Pumas UNAM                4 - 1               Olimpia-PAR
+	River Plate-URU           2 - 2              Nacional-URU
+	Melgar                    1 - 2                 Colo Colo
+[Ter 12/04]
+	Trujillanos               2 - 1             The Strongest
+	Huracán                   0 - 0                   Peñarol
+	Sporting Cristal          0 - 1         Atlético Nacional
+
+6 rodada
+[Qua 13/04]
+	Olimpia-PAR               4 - 0         Deportivo Táchira
+	Emelec                    2 - 3                Pumas UNAM
+[Qui 14/04]
+	Atlético-MG               4 - 0                    Melgar
+	Colo Colo                 0 - 0   Independiente del Valle
+	Nacional-URU              0 - 2           Rosario Central
+	Palmeiras                 4 - 0           River Plate-URU
+[Ter 19/04]
+	Peñarol                   4 - 3          Sporting Cristal
+	Atlético Nacional         0 - 0                   Huracán
+	San Lorenzo               1 - 1                 LDU Quito
+	Grêmio                    1 - 0                    Toluca
+[Qua 20/04]
+
+[Qui 21/04]
+
+Oitavas de Final
+[Qua 27/04]
+	3º Melhor 2º               -               6º Melhor 1º
+	6º Melhor 2º               -               3º Melhor 1º
+	2º Melhor 2º               -               7º Melhor 1º
+	7º Melhor 2º               -               2º Melhor 1º
+	4º Melhor 2º               -               5º Melhor 1º
+	5º Melhor 2º               -               4º Melhor 1º
+	1º Melhor 2º               -               8º Melhor 1º
+	8º Melhor 2º               -               1º Melhor 1º
+[Qua 04/05]
+	6º Melhor 1º               -               3º Melhor 2º
+	3º Melhor 1º               -               6º Melhor 2º
+
+Quartas-de-final
+[Qua 11/05]
+	Vencedor Oitavas 2         -         Vencedor Oitavas 1
+	Vencedor Oitavas 4         -         Vencedor Oitavas 3
+	Vencedor Oitavas 6         -         Vencedor Oitavas 5
+	Vencedor Oitavas 8         -         Vencedor Oitavas 7
+[Qua 18/05]
+	Vencedor Oitavas 1         -         Vencedor Oitavas 2
+	Vencedor Oitavas 3         -         Vencedor Oitavas 4
+	Vencedor Oitavas 5         -         Vencedor Oitavas 6
+	Vencedor Oitavas 7         -         Vencedor Oitavas 8
+
+Semi-final
+[Qua 06/07]
+	Vencedor Quartas 2         -         Vencedor Quartas 1
+	Vencedor Quartas 4         -         Vencedor Quartas 3
+[Qua 13/07]
+	Vencedor Quartas 1         -         Vencedor Quartas 2
+	Vencedor Quartas 3         -         Vencedor Quartas 4
+
+Final
+[Qua 20/07]
+	Vencedor Semifinal 2       -       Vencedor Semifinal 1
+[Qua 27/07]
+	Vencedor Semifinal 1       -       Vencedor Semifinal 2

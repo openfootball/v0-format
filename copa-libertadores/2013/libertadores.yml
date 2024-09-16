@@ -1,0 +1,60 @@
+########################################
+#  Copa Libertadores de América 2013
+
+league: america.l
+season: 2013
+start_at: 2013-01-22
+
+
+
+
+teams:
+# 5 Argentina
+- arsenalsarandi
+- velez
+- newells
+- bocajuniors
+- tigre
+# 3 Bolivia
+- thestrongest
+- sanjose
+- bolivar
+# 5+1 Brazil
+- corinthians
+- fluminense
+- palmeiras
+- atleticomg
+- gremio
+- saopaulo
+# 3 Chile
+- udechile
+- huachipato
+- iquique
+# 3 Colombia
+- santafe
+- millonarios
+- deportestolima
+# 3 Ecuador
+- barcelonaguayaquil
+- emelec
+- ligadequito
+# 3 Paraguay
+- libertad
+- porteno
+- olimpia
+# 3 Peru
+- sportingcristal
+- realgarcilaso
+- trujillo
+# 3 Uruguay
+- nacional
+- penarol
+- defensorsporting
+# 3 Venezuela
+- deportivolara
+- caracas
+- deportivoanzoategui
+# 3 Mexico (CONCACAF)
+- toluca
+- tijuana
+- leon

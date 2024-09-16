@@ -1,0 +1,176 @@
+########################################
+# Copa Libertadores da América - 2015
+
+Pré Libertadores
+[Ter 03/02]
+Alianza Lima 0 - 4 Huracan
+[Ter 10/02]
+Huracan 0 - 0 Alianza Lima
+
+[Qui 05/02]
+Independiente del Valle 1 - 0 Estudiantes
+[Qui 12/02]
+Estudiantes 4 - 0 Independiente del Valle
+
+[Qua 04/02]
+Deportivo Táchira 2 - 1 Cerro Porteño
+[Qua 11/02]
+Cerro Porteño 2 - 2 Deportivo Táchira
+
+[Ter 03/02]
+Monarcas Morelia 1 - 1 The Strongest
+[Ter 10/02]
+The Strongest 2 - 0 Monarcas Morelia
+
+[Qui 05/02]
+Palestino Chile 1 - 0 Nacional
+[Qui 12/02]
+Nacional 2 - 1 Palestino Chile
+
+[Qua 04/02]
+Corinthians 4 - 0 Once Caldas
+[Qua 11/02]
+Once Caldas 1 - 1 Corinthians
+
+
+1a rodada
+[Ter 17/02]
+	Universidad de Chile      0 - 1                    Emelec
+	Montevideo Wanderers      3 - 2                    Zamora
+	Deportivo Táchira         0 - 5               Racing Club
+	The Strongest             3 - 1             Internacional
+[Qua 18/02]
+	Atlas                     0 - 1                  Santa Fe
+	Guaraní-PAR               2 - 2          Sporting Cristal
+	Palestino                 0 - 2              Boca Juniors
+	Colo Colo                 2 - 0               Atlético-MG
+	Corinthians               2 - 0                 São Paulo
+[Qui 19/02]
+	Tigres-MEX                3 - 0               Juan Aurich
+
+2a rodada
+[Ter 24/02]
+	Racing Club               4 - 1               Guaraní-PAR
+	Sporting Cristal          1 - 1         Deportivo Táchira
+	Emelec                    3 - 0             The Strongest
+[Qua 25/02]
+	Atlético-MG               0 - 1                     Atlas
+	São Paulo                 4 - 0                   Danubio
+[Qui 26/02]
+	Boca Juniors              2 - 1      Montevideo Wanderers
+	Internacional             3 - 1      Universidad de Chile
+	Santa Fe                  3 - 1                 Colo Colo
+	Zamora                    0 - 1                 Palestino
+[Ter 03/03]
+	Mineros de Guayana        0 - 1    Universitario de Sucre
+
+3a rodada
+[Qua 04/03]
+	Colo Colo                 2 - 0                     Atlas
+	Internacional             3 - 2                    Emelec
+[Qui 05/03]
+	Universidad de Chile      3 - 1             The Strongest
+[Ter 10/03]
+	Universitario de Sucre    0 - 0                   Huracán
+	Montevideo Wanderers      1 - 0                 Palestino
+	Guaraní-PAR               5 - 2         Deportivo Táchira
+	Racing Club               1 - 2          Sporting Cristal
+[Qua 11/03]
+	Boca Juniors              5 - 0                    Zamora
+	San José                  0 - 1                Tigres-MEX
+	Barcelona-EQU             1 - 2         Atlético Nacional
+
+4a rodada
+[Ter 17/03]
+	Sporting Cristal          0 - 2               Racing Club
+	The Strongest             5 - 3      Universidad de Chile
+	Zamora                    1 - 5              Boca Juniors
+[Qua 18/03]
+	Tigres-MEX                4 - 0                  San José
+	Emelec                    1 - 1             Internacional
+	Estudiantes               1 - 0                  Libertad
+	Deportivo Táchira         1 - 1               Guaraní-PAR
+[Qui 19/03]
+	Palestino                 1 - 1      Montevideo Wanderers
+	River Plate               1 - 1               Juan Aurich
+	Atlético Nacional         2 - 3             Barcelona-EQU
+
+5a rodada
+[Ter 07/04]
+	Palestino                 4 - 0                    Zamora
+	Guaraní-PAR               2 - 0               Racing Club
+	San José                  1 - 1               Juan Aurich
+[Qua 08/04]
+	Deportivo Táchira         0 - 0          Sporting Cristal
+	Tigres-MEX                2 - 2               River Plate
+[Qui 09/04]
+	Estudiantes               0 - 1         Atlético Nacional
+	Libertad                  1 - 1             Barcelona-EQU
+	Montevideo Wanderers      0 - 3              Boca Juniors
+[Ter 14/04]
+	Huracán                   3 - 1                  Cruzeiro
+	Universitario de Sucre    2 - 0        Mineros de Guayana
+
+6a rodada
+	Sporting Cristal          1 - 1               Guaraní-PAR
+	Racing Club               3 - 2         Deportivo Táchira
+[Qua 15/04]
+	River Plate               3 - 0                  San José
+	Juan Aurich               4 - 5                Tigres-MEX
+[Qui 16/04]
+	Boca Juniors              2 - 0                 Palestino
+	Zamora                    0 - 3      Montevideo Wanderers
+[Ter 21/04]
+	Cruzeiro                  2 - 0    Universitario de Sucre
+	Mineros de Guayana        3 - 0                   Huracán
+	Atlético Nacional         4 - 0                  Libertad
+	Barcelona-EQU             0 - 2               Estudiantes
+
+Oitavas-de-final
+[Ter 28/04]
+	Universitario de Sucre    1 - 2                Tigres-MEX
+[Ter 05/05]
+	Estudiantes               2 - 1                  Santa Fe
+	Tigres-MEX                1 - 1    Universitario de Sucre
+[Qua 06/05]
+	Guaraní-PAR               2 - 0               Corinthians
+	São Paulo                 1 - 0                  Cruzeiro
+	Atlético-MG               2 - 2             Internacional
+[Qui 07/05]
+	Montevideo Wanderers      1 - 1               Racing Club
+	River Plate               1 - 0              Boca Juniors
+	Emelec                    2 - 0         Atlético Nacional
+[Ter 12/05]
+	Santa Fe                  2 - 0               Estudiantes
+
+Quartas-de-final
+[Ter 19/05]
+	Emelec                    1 - 0                Tigres-MEX
+[Qua 20/05]
+	Santa Fe                  1 - 0             Internacional
+[Qui 21/05]
+	Guaraní-PAR               1 - 0               Racing Club
+	River Plate               0 - 1                  Cruzeiro
+[Ter 26/05]
+	Tigres-MEX                2 - 0                    Emelec
+[Qua 27/05]
+	Internacional             2 - 0                  Santa Fe
+	Cruzeiro                  0 - 3               River Plate
+[Qui 28/05]
+	Racing Club               0 - 0               Guaraní-PAR
+
+Semi-final
+[Ter 14/07]
+	River Plate               2 - 0               Guaraní-PAR
+[Qua 15/07]
+	Internacional             2 - 1                Tigres-MEX
+[Ter 21/07]
+	Guaraní-PAR               1 - 1               River Plate
+[Qua 22/07]
+	Tigres-MEX                3 - 1             Internacional
+
+Final
+[Qua 29/07]
+	Tigres-MEX                0 - 0               River Plate
+[Qua 05/08]
+	River Plate               3 - 0                Tigres-MEX
