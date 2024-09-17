@@ -1,0 +1,146 @@
+###############################################
+#  Women's Euro 2017 - The Netherlands
+
+
+Group A |  Netherlands    Norway        Denmark     Belgium
+Group B |  Germany        Sweden        Italy       Russia
+Group C |  France         Switzerland   Iceland     Austria
+Group D |  England        Spain         Scotland    Portugal
+
+
+Matchday 1       |  Sun Jul/16 - Wed Jul/19
+Matchday 2       |  Thu Jul/20 - Sun Jul/23
+Matchday 3       |  Mon Jul/24 - Thu Jul/27
+Quarter-finals   |  Sat Jul/29 - Sun Jul/30
+Semi-finals      |  Thu Aug/3
+Final            |  Sun Aug/6
+
+
+###############################################################################
+# Group phase
+###############################################################################
+
+Group A:
+
+(1) Sun July/16 18:00    Netherlands   1-0   Norway   @ Stadion Galgenwaard, Utrecht
+          [Van de Sanden 66']
+
+(2) Sun July/16 20:45     Denmark       1-0   Belgium      @ De Vijverberg, Doetinchem
+         [Troelsgaard 6']
+
+
+(9) Thu July/20 18:00    Norway         0-2   Belgium   @ Rat Verlegh Stadion, Breda
+         [-; Van Gorp 59' Cayman 67']
+
+(10) Thu July/20 20:45    Netherlands    1-0   Denmark   @ Sparta Stadion Het Kasteel, Rotterdam
+         [Spitse 20' (pen.)]
+
+
+(17) Mon July/24 20:45   Belgium         1-2   Netherlands   @ Koning Willem II Stadion, Tilburg
+                    [Wullaert 59'; Spitse 27' (pen.) Martens 74']
+
+(18) Mon July/24 20:45    Norway         0-1   Denmark    @ De Adelaarshorst, Deventer
+                     [-; Veje 5']
+
+
+
+Group B:
+
+(3) Mon July/17 18:00    Italy       1–2   Russia       @ Sparta Stadion Het Kasteel, Rotterdam
+                     [Mauro 88'; Danilova 9' Morozova 26']
+
+(4) Mon July/17 20:45    Germany     0-0   Sweden     @ Rat Verlegh Stadion, Breda
+
+
+(11) Fri July/21 18:00     Sweden     2-0   Russia     @ De Adelaarshorst, Deventer
+                       [Schelin 22' Blackstenius 51']
+
+(12) Fri July/21 20:45     Germany    2-1   Italy       @ Koning Willem II Stadion, Tilburg
+                       [Henning 19' Peter 67' (pen.);  Mauro 29']
+
+
+(19) Tue July/25 20:45    Russia      0-2   Germany    @ Stadion Galgenwaard, Utrecht
+                      [-; Peter 10' (pen.) Marozsán 56' (pen.)]
+
+(20) Tue July/25 20:45    Sweden      2-3   Italy    @ De Vijverberg, Doetinchem
+                     [Schelin 14' (pen.) Blackstenius 47'; Sabatino 4', 37' Girelli 85']
+
+
+Group C:
+
+(5) Tue July/18 18:00   Austria   1-0    Switzerland   @ De Adelaarshorst, Deventer
+                      [Burger 15']
+
+(6) Tue July/18 20:45   France   1-0   Iceland        @ Koning Willem II Stadion, Tilburg
+                      [Le Sommer Goal 86' (pen.)]
+
+
+(13) Sat July/22 18:00   Iceland   1-2    Switzerland   @ De Vijverberg, Doetinchem
+                     [Friðriksdóttir 33'; Dickenmann 43' Bachmann 52']
+
+(14) Sat July/22 20:45   France   1-1   Austria    @ Stadion Galgenwaard, Utrecht
+                     [Henry 51'; Makas 27']
+
+
+(22) Wed July/26 20:45   Switzerland    1-1   France    @ Rat Verlegh Stadion, Breda
+                      [Crnogorčević 19'; Abily 76']
+
+(21) Wed July/26 20:45    Iceland   0-3   Austria    @ Sparta Stadion Het Kasteel, Rotterdam
+                      [Zadrazil 36' Burger 44' Enzinger 89']
+
+
+Group D:
+
+(7) Wed July/19 18:00     Spain   2-0   Portugal   @ De Vijverberg, Doetinchem
+                       [Losada 23' Sampedro 42']
+
+(8) Wed July/19 20:45      England   6-0   Scotland   @ Stadion Galgenwaard, Utrecht
+                       [Taylor 11', 26', 53' White 32' Nobbs 87' Duggan 90+3']
+
+
+(15) Sun July/23 18:00     Scotland   1-2   Portugal    @ Sparta Stadion Het Kasteel, Rotterdam
+                       [Cuthbert 68'; C. Mendes 27' Leite 72']
+
+(16) Sun July/23 20:45      England   2-0   Spain       @ Rat Verlegh Stadion, Breda
+                       [Kirby 2' Taylor 85']
+
+
+(23) Thu July/27 20:45        Portugal    1-2   England   @ Koning Willem II Stadion, Tilburg
+                                 [C. Mendes 17'; Duggan 7' Parris 48']
+(24) Thu July/27 20:45        Scotland    1-0   Spain     @ De Adelaarshorst, Deventer
+                                 [Weir 42']
+
+
+
+###############################################################################
+# Finals
+###############################################################################
+
+Quarter-finals
+
+(25) Sat July/29 18:00      Netherlands   2-0    Sweden    @ De Vijverberg, Doetinchem               # QF1: Winner A - Runner-up B
+                                [Martens 33' Miedema 64']
+(26) Sun July/30 12:00 [^1]  Germany       1-2    Denmark   @ Sparta Stadion Het Kasteel, Rotterdam   # QF2: Winner B - Runner-up A
+                                [Kerschowski 5'; Nadim 48' T. Nielsen 83']
+
+# [^1]: The Germany v Denmark match, originally scheduled on Sat Jul/29, 20:45, was postponed to the following day
+#  due to adverse weather conditions.
+
+(27) Sun July/30            Austria    5-3 pen. 0–0 a.e.t. (0-0, 0-0)  Spain      @ Koning Willem II Stadion, Tilburg   # QF3: Winner C - Runner-up D
+
+(28) Sun July/30            England         1-0    France     @ De Adelaarshorst, Deventer          # QF4: Winner D - Runner-up C
+                                [Taylor 60']
+
+Semi-finals
+
+(29) Thu Aug/3              Denmark   3-0 pen. 0-0 a.e.t. Austria    @ Rat Verlegh Stadion, Breda    #  Winner Match 26 - Winner Match 27
+
+(30) Thu Aug/3              Netherlands  3-0 England    @ De Grolsch Veste, Enschede    #  Winner Match 25 - Winner Match 28
+                                 [Miedema 22', Van de Donk 62', Bright 90+1' (o.g.)]
+
+
+Final
+
+(31) Sun Aug/6 17:00       Netherlands 4-2 Denmark     @ De Grolsch Veste, Enschede    # Winner Match 30 -  Winner Match 29
+                                 [Miedema 10', 89', Martens 28', Spitse 51'; Nadim 6' (pen.) Harder 33']
+ 

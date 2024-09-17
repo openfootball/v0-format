@@ -1,0 +1,27 @@
+##################################
+# Confederations Cup 2017 Russia
+
+
+league: world.confed
+season: 2017
+start_at: 2017-06-17
+
+########
+# Teams:  8 (from 6 confederations)
+
+8 teams:
+- Russia
+- New Zealand
+- Portugal
+- Mexico
+- Cameroon
+- Chile
+- Australia
+- Germany
+
+
+## grounds:   # add 4 stadiums/grounds
+##  Krestovsky Stadium, Saint Petersburg
+##  Otkrytiye Arena, Moscow
+##  Kazan Arena, Kazan
+##  Fisht Olympic Stadium, Sochi

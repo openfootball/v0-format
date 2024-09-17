@@ -1,0 +1,98 @@
+##################################
+# Women's World Cup 2015 Canada
+#
+#  see en.wikipedia.org/wiki/2015_FIFA_Women's_World_Cup
+
+
+Group A  |  Canada         China           New Zealand   Netherlands  
+Group B  |  Germany        Côte d'Ivoire   Norway        Thailand
+Group C  |  Japan          Switzerland     Cameroon      Ecuador
+Group D  |  United States  Australia       Sweden        Nigeria
+Group E  |  Brazil         South Korea     Spain         Costa Rica
+Group F  |  France         England         Colombia      Mexico
+
+
+Matchday 1  |  Sat Jun/6
+Matchday 2  |  Sun Jun/7
+Matchday 3  |  Mon Jun/8
+Matchday 4  |  Tue Jun/9
+Matchday 5  |  Thu Jun/11
+Matchday 6  |  Fri Jun/12
+Matchday 7  |  Sat Jun/13
+Matchday 8  |  Mon Jun/15
+Matchday 9  |  Tue Jun/16
+Matchday 10 |  Wed Jun/17
+
+
+
+Group A:
+
+(1)  Sat Jun/6 16:00   Canada        -  China         @ Commonwealth Stadium, Edmonton (EDT-2)
+(2)  Sat Jun/6 19:00   New Zealand   -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT-2)
+
+(14) Thu Jun/11 16:00  China         -  Netherlands   @ Commonwealth Stadium, Edmonton (EDT-2)
+(13) Thu Jun/11 19:00  Canada        -  New Zealand   @ Commonwealth Stadium, Edmonton (EDT-2)
+
+(25) Mon Jun/15 19:30  Netherlands   -  Canada        @ Olympic Stadium, Montreal (EDT)
+(26) Mon Jun/15 18.30  China         -  New Zealand   @ Winnipeg Stadium, Winnipeg (EDT-1)
+
+
+Group B:
+
+(4)  Sun Jun/7 13:00   Norway         -  Thailand         @ Lansdowne Stadium, Ottawa (EDT)
+(3)  Sun Jun/7 16:00   Germany        -  Côte d'Ivoire    @ Lansdowne Stadium, Ottawa (EDT)
+
+(15) Thu Jun/11 16:00  Germany        -  Norway           @ Lansdowne Stadium, Ottawa (EDT)
+(16) Thu Jun/11 19:00  Côte d'Ivoire  -  Thailand         @ Lansdowne Stadium, Ottawa (EDT)
+
+(27) Mon Jun/15 15:00  Thailand       -  Germany          @ Winnipeg Stadium, Winnipeg (EDT-1)
+(28) Mon Jun/15 17:00  Côte d'Ivoire  -  Norway           @ Moncton Stadium, Moncton (EDT+1)
+
+
+Group C:
+
+(6)  Mon Jun/8 16:00   Cameroon       -  Ecuador      @ BC Place Stadium, Vancouver (EDT-3)
+(5)  Mon Jun/8 19:00   Japan          -  Switzerland  @ BC Place Stadium, Vancouver (EDT-3)
+
+(18) Fri Jun/12 16:00  Switzerland    -  Ecuador      @ BC Place Stadium, Vancouver (EDT-3)
+(17) Fri Jun/12 19:00  Japan          -  Cameroon     @ BC Place Stadium, Vancouver (EDT-3)
+
+(29) Tue Jun/16 16:00  Ecuador        -  Japan        @ Winnipeg Stadium, Winnipeg (EDT-1)
+(30) Tue Jun/16 15:00  Switzerland    -  Cameroon     @ Commonwealth Stadium, Edmonton (EDT-2)
+
+
+Group D:
+
+(8)  Mon Jun/8 15:00   Sweden         -  Nigeria     @ Winnipeg Stadium, Winnipeg (EDT-1)
+(7)  Mon Jun/8 18:30   United States  -  Australia   @ Winnipeg Stadium, Winnipeg (EDT-1)
+
+(20) Fri Jun/12 16:00  Australia      -  Nigeria     @ Winnipeg Stadium, Winnipeg (EDT-1)
+(19) Fri Jun/12 19:00  United States  -  Sweden      @ Winnipeg Stadium, Winnipeg (EDT-1)
+
+(31) Tue Jun/16 17:00  Nigeria        -  United States  @ BC Place Stadium, Vancouver (EDT-3)
+(32) Tue Jun/16 18:00  Australia      -  Sweden         @ Commonwealth Stadium, Edmonton (EDT-2)
+
+
+Group E:
+
+(10) Tue Jun/9 16:00   Spain          -  Costa Rica   @ Olympic Stadium, Montreal (EDT)
+(9)  Tue Jun/9 19:00   Brazil         -  South Korea  @ Olympic Stadium, Montreal (EDT)
+
+(21) Sat Jun/13 16:00  Brazil         -  Spain        @ Olympic Stadium, Montreal (EDT)
+(22) Sat Jun/13 19:00  South Korea    -  Costa Rica   @ Olympic Stadium, Montreal (EDT)
+
+(33) Wed Jun/17 20:00  Costa Rica     -  Brazil       @ Moncton Stadium, Moncton (EDT+1)
+(34) Wed Jun/17 19:00  South Korea    -  Spain        @ Lansdowne Stadium, Ottawa (EDT)
+
+
+Group F:
+
+(11) Tue Jun/9 14:00   France         -  England   @ Moncton Stadium, Moncton (EDT+1)
+(12) Tue Jun/9 17:00   Colombia       -  Mexico    @ Moncton Stadium, Moncton (EDT+1)
+
+(23) Sat Jun/13 14:00  France         -  Colombia  @ Moncton Stadium, Moncton (EDT+1)
+(24) Sat Jun/13 17:00  England        -  Mexico    @ Moncton Stadium, Moncton (EDT+1)
+
+(35) Wed Jun/17 16:00  Mexico         -  France    @ Lansdowne Stadium, Ottawa (EDT)
+(36) Wed Jun/17 16:00  England        -  Colombia  @ Olympic Stadium, Montreal (EDT)
+

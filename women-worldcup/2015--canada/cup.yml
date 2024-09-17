@@ -1,0 +1,46 @@
+##################################
+#  Women's World Cup 2015 Canada
+
+league: world.women
+season: 2015
+start_at: 2015-06-06
+
+
+######
+# 24 Teams
+
+teams:
+- can # Canada
+- usa # United States
+- mex # Mexico
+- crc # Costa Rica
+- col # Colombia
+- ecu # Ecuador
+- bra # Brazil
+- nor # Norway
+- swe # Sweden
+- esp # Spain
+- fra # France
+- eng # England
+- ned # Netherlands  
+- ger # Germany
+- sui # Switzerland
+- nga # Nigeria
+- civ # Côte d'Ivoire
+- cmr # Cameroon
+- chn # China
+- tha # Thailand
+- kor # South Korea
+- jpn # Japan
+- aus # Australia
+- nzl # New Zealand
+
+
+#####
+# 6 stadiums/grounds
+#  - BC Place Stadium @ Vancouver
+#  - Commonwealth Stadium @ Edmonton
+#  - Winnipeg Stadium @ Winnipeg
+#  - Lansdowne Stadium @ Ottawa
+#  - Olympic Stadium @ Montreal
+#  - Moncton Stadium @ Moncton

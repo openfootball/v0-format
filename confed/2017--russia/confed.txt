@@ -1,0 +1,76 @@
+##################################
+# Confederations Cup 2017 Russia
+
+# Note:  All times MSK - Moscow Time (UTC+3)
+
+
+Group A  |  Russia      New Zealand   Portugal     Mexico
+Group B  |  Cameroon    Chile         Australia    Germany
+
+
+Matchday 1  |  Sat Jun/17 - Mon Jun/19
+Matchday 2  |  Wed Jun/21 - Thu Jun/22
+Matchday 3  |  Sat Jun/24 - Sun Jun/25
+
+(4) Semi-finals           | Wed Jun/28 - Thu Jun/29
+(5) Third place play-off  | Sun Jul/2 
+(6) Final                 | Sun Jul/2
+
+
+
+Group A:
+
+(1)  Sat Jun/17 18:00     Russia      2-0 (1-0)  New Zealand  @ Krestovsky Stadium, Saint Petersburg
+                             [Boxall 31' (o.g.) Smolov 69']
+(2)  Sun Jun/18 18:00     Portugal    2-2 (1-1)  Mexico       @ Kazan Arena, Kazan
+                             [Quaresma 34' Cédric 86'; Hernández 42' Moreno 90+1']
+
+(5)  Wed Jun/21 18:00     Russia 	    0-1 (0-1)  Portugal     @ Otkrytiye Arena, Moscow
+                             [-; Ronaldo 8']
+(6)  Wed Jun/21 21:00     Mexico 	     2-1 (0-1)   New Zealand  @ Fisht Olympic Stadium, Sochi
+                             [Jiménez 54' Peralta 72'; Wood 42'] 
+
+(9)  Sat Jun/24 18:00     Mexico 	    2-1 (1-1)  Russia       @ Kazan Arena, Kazan
+                             [Araujo 30' Lozano 52'; Samedov 25']
+(10) Sat Jun/24 18:00     New Zealand  0-4 (0-2)  Portugal     @ Krestovsky Stadium, Saint Petersburg
+                             [-; Ronaldo 33' (pen.) B. Silva 37' A. Silva 80' Nani 90+1']
+
+
+Group B:
+
+(3)   Sun Jun/18 21:00    Cameroon 	0-2 (0-0)  Chile        @ Otkrytiye Arena, Moscow
+                             [-; Vidal 81' Vargas 90+1']
+(4)   Mon Jun/19 18:00    Australia 	2-3 (1-2)  Germany      @ Fisht Olympic Stadium, Sochi
+                             [Rogic 41' Juric 56'; Stindl 5' Draxler 44' (pen.) Goretzka 48']
+                             
+(7)   Thu Jun/22 18:00    Cameroon 	  1-1 (1-0)  Australia    @ Krestovsky Stadium, Saint Petersburg
+                             [Zambo Anguissa 45+1'; Milligan 60' (pen.)]
+(8)   Thu Jun/22 21:00    Germany 	  1-1 (1-1)  Chile        @ Kazan Arena, Kazan
+                             [Stindl 41'; Sánchez 6']
+                             
+(11)  Sun Jun/25 18:00    Germany 	  3-1 (1-0)  Cameroon     @ Fisht Olympic Stadium, Sochi
+                             [Demirbay 48' Werner 66', 81'; Aboubakar 78']
+(12)  Sun Jun/25 18:00    Chile 	    1-1 (0-1) Australia    @ Otkrytiye Arena, Moscow
+                             [Rodríguez 67'; Troisi 42']  
+
+
+####################
+# Knockout stage
+
+(4) Semi-finals
+
+(13) Wed Jun/28 21:00    Portugal  0-3 pen. 0-0 a.e.t. (0-0, 0-0)  Chile       @ Kazan Arena, Kazan             ## Winner Group A	-	Runner-up Group B
+               
+(14) Thu Jun/29 21:00    Germany   4-1 (2-0)  Mexico      @ Fisht Olympic Stadium, Sochi   ## Winner Group B - Runner-up Group A
+                            [Goretzka 6', 8' Werner 59' Younes 90+1'; Fabián 89']
+
+
+(5) Third place play-off
+
+(15) Sun Jul/2 15:00      Portugal  2–1 a.e.t. (1-1, 0-0)  Mexico      @ Otkrytiye Arena, Moscow    ## Loser Match 13  -  Loser Match 14
+                              [Pepe 90+1' Adrien 104' (pen.); Neto 54' (o.g.)]
+
+(6) Final
+
+(16) Sun Jul/2 21:00      Chile  0-1 (0-1) Germany    @ Krestovsky Stadium, Saint Petersburg   ##  Winner Match 13 - Winner Match 14
+                             [-; Stindl 20']
