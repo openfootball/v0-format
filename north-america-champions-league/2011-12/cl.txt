@@ -1,0 +1,170 @@
+= CONCACAF Champions League 2011/12
+
+
+# note - does NOT include preliminary round 
+#
+# start_at: 2011-07-26
+ 
+
+# todo - find a syntax / format for listing teams (by country)
+#           a first try 
+#            why? why not?
+Teams  
+- Mexico 
+    Monterrey  
+    Santos Laguna   
+    UNAM   
+    Morelia
+- United States
+    Los Angeles Galaxy   
+    Colorado Rapids
+    FC Dallas
+    Seattle Sounders FC
+- Canada       
+    Toronto FC
+- Honduras
+    espana
+    motagua
+- Costa Rica
+    alajuelense
+    herediano
+- Guatemala
+    comunicaciones
+- El Salvador
+    Isidro Metapán
+- Panama
+    Tauro
+
+
+
+#############
+# Groups
+
+Group A | Los Angeles Galaxy    Morelia              Alajuelense       Motagua
+Group B |  Santos Laguna         Isidro Metapán       Colorado Rapids   Real España
+Group C |  UNAM                  Toronto FC           FC Dallas         Tauro
+Group D |  Monterrey             Seattle Sounders FC  Comunicaciones    Herediano
+
+
+##############
+# Matchdays
+
+Matchday 1 |  August 16-18, 2011
+Matchday 2 |   August 23-25, 2011
+Matchday 3 |  September 13-15, 2011
+Matchday 4 |  September 20-22, 2011
+Matchday 5 |  September 27-29, 2011
+Matchday 6 |  October 18-20, 2011
+
+
+################
+# Group A
+
+Matchday 1 / Group A   
+2011-08-16  Los Angeles Galaxy  2-0  Motagua
+2011-08-16  Alajuelense         1-0  Monarcas Morelia
+
+Matchday 2 / Group A     
+2011-08-25  Los Angeles Galaxy  2-0  Alajuelense
+2011-08-25  Monarcas Morelia    4-0  Motagua
+
+Matchday 3 / Group A     
+2011-09-13  Monarcas Morelia    2-1  Los Angeles Galaxy
+2011-09-15  Motagua             2-4  Alajuelense
+
+Matchday 4 / Group A    
+2011-09-21  Alajuelense         1-0  Los Angeles Galaxy
+2011-09-22  Motagua             0-2  Monarcas Morelia
+
+Matchday 5 / Group A    
+2011-09-28  Los Angeles Galaxy  2-1  Monarcas Morelia
+2011-09-29  Alajuelense         1-0  Motagua
+
+Matchday 6 / Group A   
+2011-10-18  Monarcas Morelia    2-1  Alajuelense
+2011-10-20  Motagua             0-1  Los Angeles Galaxy
+
+
+################
+# Group B
+
+Matchday 1 / Group B     
+2011-08-16 20:00  Santos Laguna    3-2  Real España
+2011-08-17 22:00  Colorado Rapids  3-2  Isidro Metapán
+
+Matchday 2 / Group B    
+2011-08-23 22:00  Real España     1-1  Colorado Rapids
+2011-08-24 22:00  Isidro Metapán  2-0  Santos Laguna
+
+Matchday 3 / Group B  
+2011-09-13 22:00  Real España      1-2  Isidro Metapán
+2011-09-13 22:00  Colorado Rapids  1-4  Santos Laguna
+
+Matchday 4 / Group B   
+2011-09-21 22:00  Colorado Rapids  1-2  Real España
+2011-09-22 20:00  Santos Laguna    6-0  Isidro Metapán
+
+Matchday 5 / Group B    
+2011-09-28 20:00  Real España     1-1  Santos Laguna
+2011-09-28 22:00  Isidro Metapán  1-3  Colorado Rapids
+
+Matchday 6 / Group B    
+2011-10-19 20:00  Santos Laguna   2-0  Colorado Rapids
+2011-10-20 20:00  Isidro Metapán  3-2  Real España
+
+
+################
+# Group C
+
+Matchday 1 / Group C   
+2011-08-17 22:00  UNAM   0-1  FC Dallas
+2011-08-18 20:00  Tauro  1-2  Toronto FC
+
+Matchday 2 / Group C  
+2011-08-25 10:15  Toronto FC  0-1  FC Dallas
+2011-08-25 20:00  Tauro       0-0  UNAM
+
+Matchday 3 / Group C    
+2011-09-14 20:00  FC Dallas  1-1  Tauro
+2011-09-14 20:00  UNAM       4-0  Toronto FC
+
+Matchday 4 / Group C    
+2011-09-20 20:00  Toronto FC  1-0  Tauro
+2011-09-21 20:00  FC Dallas   0-2  UNAM
+
+Matchday 5 / Group C   
+2011-09-27 20:00  Toronto FC  1-1  UNAM
+2011-09-28 20:00  Tauro       5-3  FC Dallas
+
+Matchday 6 / Group C   
+2011-10-18 20:00  FC Dallas  0-3  Toronto FC
+2011-10-19 22:00  UNAM       1-0  Tauro
+
+
+################
+# Group D
+
+Matchday 1 / Group D    
+2011-08-16 22:00  Seattle Sounders FC  4-1  Comunicaciones
+2011-08-17 20:00  Herediano            0-5  Monterrey
+
+Matchday 2 / Group D   
+2011-08-23 20:00  Monterrey       0-1  Seattle Sounders FC
+2011-08-24 17:00  Comunicaciones  2-0  Herediano
+
+Matchday 3 / Group D     
+2011-09-14 22:00  Herediano       1-2  Seattle Sounders FC
+2011-09-14 22:00  Comunicaciones  1-0  Monterrey
+
+Matchday 4 / Group D    
+2011-09-20 20:00  Monterrey            3-1  Comunicaciones
+2011-09-20 22:00  Seattle Sounders FC  0-1  Herediano
+
+Matchday 5 / Group D    
+2011-09-27 22:00  Comunicaciones  2-2  Seattle Sounders FC
+2011-09-27 22:00  Monterrey       1-0  Herediano
+
+Matchday 6 / Group D  
+2011-10-18 22:00  Seattle Sounders FC  1-2  Monterrey
+2011-10-19 22:00  Herediano            4-1  Comunicaciones
+

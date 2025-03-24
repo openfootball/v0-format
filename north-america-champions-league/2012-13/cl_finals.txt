@@ -1,0 +1,43 @@
+= CONCACAF Champions League 2012/13
+
+# note - All Times U.S. Eastern Daylight Time (UTC−4)
+
+
+###################
+# Knockout Stage
+
+Quarterfinals - 1st Leg     # March 5-7, 2013
+
+2013-03-05 20:00  Houston Dynamo   1-0  Santos Laguna
+2013-03-06 20:00  Xelajú           1-3  Monterrey
+2013-03-06 20:00  Tigres UANL      1-0  Seattle Sounders
+2013-03-07 20:00  Herediano        0-0  LA Galaxy
+
+
+Quarterfinals - 2nd Leg     # March 12-14, 2013
+
+2013-03-12 20:00  Monterrey          1-1    Xelajú
+2013-03-12 20:00  Seattle Sounders   3-1    Tigres UANL
+2013-03-13 20:00  Santos Laguna      3-0    Houston Dynamo
+2013-03-13 20:00  LA Galaxy          4-1    Herediano
+
+
+Semifinals - 1st Leg       # April 2-4, 2013
+
+2013-04-02 22:00  Seattle Sounders  0-1   Santos Laguna
+2013-04-03 22:00  LA Galaxy         1-2   Monterrey
+
+Semifinals - 2nd Leg       # April 9-11, 2013
+
+2013-04-09 20:00  Santos Laguna     1-1  Seattle Sounders
+2013-04-10 20:00  Monterrey         1-0  LA Galaxy
+
+
+Finals - 1st Leg        # April 24, 2013
+
+2013-04-24 22:00  Santos Laguna     0-0  Monterrey
+
+Finals - 2nd Leg        # May 1, 2013
+
+2013-05-01 22:00  Monterrey         4-2  Santos Laguna
+

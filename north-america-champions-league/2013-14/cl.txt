@@ -1,0 +1,71 @@
+= CONCACAF Champions League 2013/14
+
+
+# start_at: 2013-08-06
+
+
+
+Teams  # 24 (from 11 associations)
+- North America   # 9 teams
+-- Mexico
+    tijuana
+    toluca
+    america
+    cruzazul
+-- United States
+    galaxy
+    sanjose
+    houston
+    kansascity
+-- Canada
+    montreal
+- Central America   # 12 teams
+-- Costa Rica
+    alajuelense
+    herediano
+    cartagines
+-- Honduras
+    olimpia
+    cdvictoria
+-- Guatemala
+    comunicaciones
+    heredia
+-- Panama
+    arabeunido
+    sportingsanmiguelito
+-- El Salvador
+    metapan
+    luisangelfirpo
+-- Nicaragua
+    esteli
+- Caribbean   # 3 teams
+-- Trinidad and Tobago
+    wconnection
+    caledonia
+-- Haiti
+    valenciafc
+
+
+
+############
+# Groups
+
+Group 1  |  Árabe Unido           Houston Dynamo         W Connection
+Group 2  |  Olimpia               Sporting Kansas City   Real Estelí
+Group 3  |  Herediano             Cruz Azul              Valencia
+Group 4  |  América               Alajuelense            Sporting San Miguelito
+Group 5  |  San Jose Earthquakes  Montreal Impact        Heredia
+Group 6  |  Comunicaciones        Toluca                 Caledonia AIA
+Group 7  |  Tijuana               Victoria               Luis Ángel Firpo
+Group 8  |  Los Angeles Galaxy    Isidro Metapán         Cartaginés
+
+
+################
+# Matchdays
+
+Matchday 1 |  August 6-8, 2013
+Matchday 2 |  August 20-22, 2013
+Matchday 3 |  August 27-29, 2013
+Matchday 4 |  September 17-19, 2013
+Matchday 5 |  September 24-26, 2013
+Matchday 6 |  October 22-24, 2013

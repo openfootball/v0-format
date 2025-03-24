@@ -1,0 +1,39 @@
+= CONCACAF Champions League 2011/12
+
+
+###################
+# Knockout Stage
+
+Quarterfinals - 1st Leg    # March 6-8, 2012
+
+2012-03-06  Morelia           1-3  Monterrey
+2012-03-07  Toronto           2-2  LA Galaxy
+2012-03-07  Seattle Sounders  2-1  Santos Laguna
+2012-03-08  Metapán           2-1  Pumas
+
+Quarterfinals - 2nd Leg    # March 13-15, 2012
+
+2012-03-13  Monterrey      4-1  Morelia
+2012-03-14  LA Galaxy      1-2  Toronto
+2012-03-14  Santos Laguna  6-1  Seattle Sounders
+2012-03-15  Pumas          8-0  Metapán
+
+
+Semifinals - 1st Leg    # March 27-29, 2012
+
+2012-03-28  Toronto    1-1  Santos Laguna
+2012-03-28  Monterrey  3-0  Pumas
+
+Semifinals - 2nd Leg    # April 3-5, 2012
+
+2012-04-04  Santos Laguna  6-2  Toronto
+2012-04-04  Pumas          1-1  Monterrey
+
+
+Finals - 1st Leg     # April 17-19, 2012
+
+2012-04-18  Monterrey  2-0  Santos Laguna
+
+Finals - 2nd Leg    # April 24-26, 2012
+
+2012-04-25  Santos Laguna  2-1  Monterrey
