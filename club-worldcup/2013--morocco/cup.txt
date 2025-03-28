@@ -1,0 +1,51 @@
+= FIFA Club World Cup 2013
+
+# in Morocco, 11–21 December 2013
+#   note: All times Western European Time (UTC±0)
+#
+#  start_at: 2013-12-11
+
+
+# Teams 7 (from 6 confederations)
+# 
+# - atleticomg   # Brazil / Atlético Mineiro / CONMEBOL
+# - bayern       # Germany / Bayern Munich / UEFA
+# - guangzhou    # China  / Guangzhou Evergrande / AFC
+# - alahly       # Egypt  / Al-Ahly /  CAF
+# - monterrey    # Mexico / Monterrey / CONCACAF 
+# - auckland     # New Zealand / Auckland City / OFC
+# - casablanca   # Morocco / Raja Casablanca / CAF
+
+
+
+Play-off for quarter-finals
+
+(1) Wed Dec/11 19:30   Raja Casablanca   2-1  Auckland City FC     @ Stade Adrar, Agadir
+
+
+Quarter-finals
+
+(2) Sat Dec/14 16:00   Guangzhou Evergrande FC  2-0              Al Ahly SC     @ Stade Adrar, Agadir
+(3) Sat Dec/14 19:30   Raja Casablanca          2-1 a.e.t. (1-1)  CF Monterrey   @ Stade Adrar, Agadir
+
+
+Semi-finals
+
+(4) Tue Dec/17 19:30   Guangzhou Evergrande FC  0-3  Bayern München    @ Stade Adrar, Agadir
+(6) Wed Dec/18 19:30   Raja Casablanca          3-1  Atlético Mineiro  @ Stade de Marrakech, Marrakesh
+
+
+Match for fifth place
+
+(5) Wed Dec/18 16:30   Al Ahly SC  1-5  CF Monterrey     @ Stade de Marrakech, Marrakesh
+
+
+Match for third place
+
+(7) Sat Dec/21 16:30   Guangzhou Evergrande  2-3  Atlético Mineiro   @ Stade de Marrakech, Marrakesh
+
+
+Final
+
+(8) Sat Dec/21 19:30   Bayern München  2-0  Raja Casablanca    @ Stade de Marrakech, Marrakesh
+
